@@ -1,0 +1,952 @@
+{
+  "commercial": {
+    "exterior-lighting": [
+      {
+        "full": "assets/gallery/commercial/exterior-lighting/19.webp",
+        "thumb": "assets/gallery/commercial/exterior-lighting/19-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Historic building exterior lighting installation",
+        "alt": "Brick building entrance with arched doorway and installed exterior wall lights and pendant fixtures",
+        "description": "Professional exterior lighting installation on a period brick building featuring wall-mounted fixtures, pendant lights with visible conduit, and integrated signage lighting. The work demonstrates sympathetic integration of modern electrical systems with heritage architecture.",
+        "quality": "ok"
+      },
+      {
+        "full": "assets/gallery/commercial/exterior-lighting/20.webp",
+        "thumb": "assets/gallery/commercial/exterior-lighting/20-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Storefront uplighting and accent lighting",
+        "alt": "Nighttime view of illuminated commercial storefront with curved arched entrance, uplighting on brick walls, and recessed spotlight fixtures.",
+        "description": "Professional exterior lighting installation featuring uplighting along a curved brick facade, recessed spotlights, and ambient accent lighting to highlight the storefront entrance and business signage at night. The warm-toned LED fixtures create an inviting, high-end retail atmosphere.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/commercial/exterior-lighting/21.webp",
+        "thumb": "assets/gallery/commercial/exterior-lighting/21-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Heritage building accent lighting installation",
+        "alt": "Night view of a brick building facade with professional uplighting highlighting architectural features including a cupola dome at the roofline",
+        "description": "Professional exterior accent lighting on a heritage brick building, featuring uplighting that highlights the roofline cupola and architectural details. The nighttime photograph effectively demonstrates how strategic light placement enhances the building's character and heritage features.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/commercial/exterior-lighting/24.webp",
+        "thumb": "assets/gallery/commercial/exterior-lighting/24-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Heritage building facade uplighting",
+        "alt": "Night photograph of brick building with archway turret, illuminated by external uplighting that highlights stone details and architecture",
+        "description": "Professional exterior uplighting on a Victorian-era commercial building, highlighting the arched turret and architectural stonework at night. The installation uses strategic LED positioning to enhance the building's heritage features and create atmospheric illumination for a town centre location.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/commercial/exterior-lighting/26.webp",
+        "thumb": "assets/gallery/commercial/exterior-lighting/26-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "External consumer unit installation",
+        "alt": "Open white electrical cabinet mounted on exterior wall showing distribution board with circuit breakers and protective devices",
+        "description": "Wall-mounted external electrical enclosure housing a distribution board with MCBs and RCD protection. The cabinet is professionally installed on a commercial exterior location with associated traffic management visible during the installation work.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/commercial/exterior-lighting/27.webp",
+        "thumb": "assets/gallery/commercial/exterior-lighting/27-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Consumer board and meter installation",
+        "alt": "Mounted consumer board with circuit breakers above an electricity meter and RCD protection device on a cream-colored wall",
+        "description": "Interior commercial electrical installation showing a consumer unit with circuit breakers, electricity meter, RCD protection, and associated wiring. This demonstrates proper electrical distribution and safety systems installation on a commercial premises.",
+        "quality": "ok"
+      },
+      {
+        "full": "assets/gallery/commercial/exterior-lighting/28.webp",
+        "thumb": "assets/gallery/commercial/exterior-lighting/28-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Outdoor switchboard installation setup",
+        "alt": "Electrical switchboard mounted on white fence with installation tools and materials staged on ground at night",
+        "description": "Night-time installation of a residential electrical switchboard/distribution enclosure mounted on exterior fencing. Tools, materials and equipment are staged during the installation process, showing professional on-site setup for an outdoor electrical installation.",
+        "quality": "ok"
+      },
+      {
+        "full": "assets/gallery/commercial/exterior-lighting/89.webp",
+        "thumb": "assets/gallery/commercial/exterior-lighting/89-thumb.webp",
+        "w": 2000,
+        "h": 1500,
+        "title": "Commercial canopy recessed lighting installation",
+        "alt": "Car dealership canopy with multiple recessed ceiling lights installed across the white soffit structure",
+        "description": "Modern car forecourt canopy with integrated recessed ceiling lights providing even illumination across the sales area. The professional downlight installation demonstrates commercial exterior lighting integration in a large-format structure.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/commercial/exterior-lighting/90.webp",
+        "thumb": "assets/gallery/commercial/exterior-lighting/90-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Occupancy sensor on corrugated exterior",
+        "alt": "White occupancy sensor with timer mounted on rusted gold surround on weathered corrugated metal wall",
+        "description": "Wall-mounted occupancy sensor with timer control installed on corrugated metal exterior cladding. The white faceplate and decorative surround show significant rust patina on the metal frame, indicating weathered exterior installation.",
+        "quality": "ok"
+      }
+    ],
+    "fuseboards": [
+      {
+        "full": "assets/gallery/commercial/fuseboards/35.webp",
+        "thumb": "assets/gallery/commercial/fuseboards/35-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Commercial fuseboard installation with cable routing",
+        "alt": "Mounted green-faced fuseboard in white enclosure with orange and blue SWA cables and components on unfinished plasterboard wall",
+        "description": "A modern fused distribution board mounted in a white enclosure on a building site wall, featuring clear circuit labeling and professional cable management with visible SWA cable routing below. The installation demonstrates proper organization and accessibility standards for commercial electrical work.",
+        "quality": "ok"
+      },
+      {
+        "full": "assets/gallery/commercial/fuseboards/91.webp",
+        "thumb": "assets/gallery/commercial/fuseboards/91-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Fuseboard components and switchgear display",
+        "alt": "White consumer unit with switches and outlets mounted in compartments on a blue platform against a brick wall.",
+        "description": "Electrical components including a white consumer unit with multiple switches and outlets, displayed on a blue work platform. The installation shows typical commercial fuseboard components and switchgear mounted for inspection or installation.",
+        "quality": "ok"
+      },
+      {
+        "full": "assets/gallery/commercial/fuseboards/92.webp",
+        "thumb": "assets/gallery/commercial/fuseboards/92-thumb.webp",
+        "w": 2000,
+        "h": 1500,
+        "title": "Commercial distribution board installation",
+        "alt": "Recessed commercial fuseboard with white enclosure containing three-phase distribution unit, blue and brown cables, and yellow safety label.",
+        "description": "Open-fronted commercial fuseboard installation showing a three-phase distribution unit with blue and brown conductors, mounted in a white recessed enclosure with safety labeling and professional cable termination.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/commercial/fuseboards/93.webp",
+        "thumb": "assets/gallery/commercial/fuseboards/93-thumb.webp",
+        "w": 2000,
+        "h": 1500,
+        "title": "Modern consumer unit with RCD protection",
+        "alt": "White consumer unit mounted on wall with black and orange circuit breakers, red main switch and RCD protection module",
+        "description": "A newly installed commercial consumer unit featuring multiple miniature circuit breakers, main isolation switch, and RCD protection module. The neat installation demonstrates modern electrical distribution board standards with proper labelling and cable management below.",
+        "quality": "good"
+      }
+    ],
+    "interior-lighting": [
+      {
+        "full": "assets/gallery/commercial/interior-lighting/110.webp",
+        "thumb": "assets/gallery/commercial/interior-lighting/110-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "BYD showroom: downlights & power",
+        "alt": "Recessed ceiling downlights and wall power outlets above a wall-mounted display screen in the BYD showroom",
+        "description": "Part of the fit-out at a BYD electric-vehicle showroom, recessed downlights set into the drop ceiling above a wall-mounted display screen, with power run in to the adjacent wall.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/commercial/interior-lighting/111.webp",
+        "thumb": "assets/gallery/commercial/interior-lighting/111-thumb.webp",
+        "w": 2000,
+        "h": 1500,
+        "title": "BYD showroom: ceiling downlights",
+        "alt": "Rows of recessed downlights in a suspended ceiling grid across the bright BYD showroom with a large mounted screen",
+        "description": "Recessed downlighting fitted throughout the suspended ceiling of the BYD electric-vehicle showroom, with display and feature-wall lighting for a clean, evenly-lit space.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/commercial/interior-lighting/112.webp",
+        "thumb": "assets/gallery/commercial/interior-lighting/112-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "BYD Service: illuminated signage",
+        "alt": "Illuminated white 'BYD SERVICE' sign mounted on a curved dark soffit",
+        "description": "Illuminated 'BYD SERVICE' signage installed on a curved soffit as part of the showroom's multimedia and signage package, brightly lit against the dark feature finish.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/commercial/interior-lighting/113.webp",
+        "thumb": "assets/gallery/commercial/interior-lighting/113-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "BYD Service: LED channel signage",
+        "alt": "Illuminated white LED channel letters spelling BYD and SERVICE on a dark grey feature wall",
+        "description": "White LED channel-letter signage mounted on a feature wall in the BYD service centre, part of the multimedia and signage install, cleanly positioned and wired in.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/commercial/interior-lighting/2.webp",
+        "thumb": "assets/gallery/commercial/interior-lighting/2-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Warehouse floor duct installation",
+        "alt": "Wide view of a warehouse floor showing a concrete trench with white cable duct containing LED strips, electrical tools, and bundled cables ready for installation.",
+        "description": "Large-scale commercial floor ducting system installation in a warehouse, featuring integrated LED strip lighting along the cable tray edges. The system provides organized power and data distribution throughout the industrial space.",
+        "quality": "ok"
+      },
+      {
+        "full": "assets/gallery/commercial/interior-lighting/3.webp",
+        "thumb": "assets/gallery/commercial/interior-lighting/3-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Industrial warehouse overhead lighting installation",
+        "alt": "Wide-angle view of an industrial warehouse interior with a grid of recessed ceiling lights mounted in steel framework, polished concrete floor, and natural light from tall windows.",
+        "description": "A large industrial warehouse featuring an extensive grid of recessed downlights mounted across the exposed steel framework. The polished concrete floor and abundant natural light showcase a professionally installed commercial lighting system designed for optimal illumination of the expansive floor space.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/commercial/interior-lighting/81.webp",
+        "thumb": "assets/gallery/commercial/interior-lighting/81-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Warehouse lighting install",
+        "alt": "Electrician on a scissor lift fitting ceiling lights in a warehouse with a polycarbonate roof",
+        "description": "Fitting overhead lighting from a scissor lift in a warehouse, working up to the exposed roof structure and polycarbonate roof panels.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/commercial/interior-lighting/82.webp",
+        "thumb": "assets/gallery/commercial/interior-lighting/82-thumb.webp",
+        "w": 1125,
+        "h": 2000,
+        "title": "Warehouse lighting: first fix",
+        "alt": "Warehouse interior with exposed ceiling joists, cable runs and two scissor lifts set up for overhead lighting work",
+        "description": "First-fix stage of a warehouse lighting installation, cable runs and conduit routed across the exposed ceiling structure, with mobile platforms in position for the overhead work.",
+        "quality": "ok"
+      },
+      {
+        "full": "assets/gallery/commercial/interior-lighting/83.webp",
+        "thumb": "assets/gallery/commercial/interior-lighting/83-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Warehouse LED lighting",
+        "alt": "Rows of linear LED fixtures mounted across the exposed steel trusses of a warehouse ceiling",
+        "description": "Parallel rows of linear LED fixtures running across the exposed steel trusses of a warehouse, giving clean, even light across the floor below.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/commercial/interior-lighting/84.webp",
+        "thumb": "assets/gallery/commercial/interior-lighting/84-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Commercial emergency lighting installation",
+        "alt": "White emergency lighting unit with two LED heads mounted on corrugated metal wall",
+        "description": "Twin-head emergency lighting unit mounted on industrial corrugated wall in commercial interior space. The QVISS-branded fixture provides dual LED emergency heads for safety-critical lighting in the event of mains failure.",
+        "quality": "ok"
+      }
+    ],
+    "power": [
+      {
+        "full": "assets/gallery/commercial/power/104.webp",
+        "thumb": "assets/gallery/commercial/power/104-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Commercial socket outlet installation",
+        "alt": "White weatherproof electrical socket outlet mounted on a metal column with thick black power cables running upward and a distribution panel below",
+        "description": "Weatherproof socket outlet mounted on an industrial support column with heavy-duty power cables and an Eversource distribution board below. The installation demonstrates robust commercial electrical infrastructure in a warehouse environment.",
+        "quality": "ok"
+      },
+      {
+        "full": "assets/gallery/commercial/power/105.webp",
+        "thumb": "assets/gallery/commercial/power/105-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Isolator switch with weatherproof conduit",
+        "alt": "Weatherproof red and yellow isolator switch mounted on wall with white conduit and double socket outlet below",
+        "description": "Commercial electrical installation featuring a red and yellow isolator switch in a weatherproof enclosure mounted on a wall, with white PVC conduit and clips routed vertically. Below is a matching weatherproof double socket outlet, demonstrating a complete power distribution system for site or outdoor use.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/commercial/power/25.webp",
+        "thumb": "assets/gallery/commercial/power/25-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Heat pump unit external installation",
+        "alt": "External wall-mounted heat pump unit with black conduit and isolator switch on a brick building",
+        "description": "Mitsubishi heat pump outdoor unit mounted on a brick building wall with integrated electrical conduit, cabling, and an external isolator switch. The installation demonstrates neat cable management and proper safety provision for commercial HVAC systems.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/commercial/power/33.webp",
+        "thumb": "assets/gallery/commercial/power/33-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "AED cabinet with commercial power cables",
+        "alt": "Black and blue electrical cables running across ceiling above a beige AED wall cabinet with power outlet",
+        "description": "Commercial electrical installation showing overhead power cables routed above a wall-mounted AED (automated external defibrillator) cabinet. The setup demonstrates cable management and auxiliary equipment wiring in a professional building environment.",
+        "quality": "ok"
+      },
+      {
+        "full": "assets/gallery/commercial/power/34.webp",
+        "thumb": "assets/gallery/commercial/power/34-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Public defibrillator exterior installation",
+        "alt": "Yellow and green public defibrillator mounted on a brick building wall outdoors",
+        "description": "Bright yellow AED (automated external defibrillator) unit securely mounted on a brick exterior wall with green access panel, positioned for emergency public access. Clean installation with proper weatherproofing against the building facade.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/commercial/power/36.webp",
+        "thumb": "assets/gallery/commercial/power/36-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Commercial meter installation and power distribution",
+        "alt": "Commercial electricity meter with copper pipework and color-coded terminal blocks on wooden backing",
+        "description": "A professional commercial electricity meter installation with organized copper pipework, color-coded terminal block connections, and integrated power distribution components. The installation demonstrates neat cable management and proper termination of multiple circuits with blue and orange service cables.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/commercial/power/4.webp",
+        "thumb": "assets/gallery/commercial/power/4-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Commercial isolation switch and distribution installation",
+        "alt": "Outdoor electrical isolation switch and weatherproof distribution board mounted on corrugated metal building wall with cables",
+        "description": "Weatherproof isolation switch and electrical distribution board installed on corrugated industrial building exterior. Clean cable routing and professional mounting demonstrating proper commercial power supply installation.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/commercial/power/7.webp",
+        "thumb": "assets/gallery/commercial/power/7-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Commercial cable management and switch installation",
+        "alt": "Black vertical conduits and white switch plates mounted on brick wall beside blue storage bins in industrial workshop.",
+        "description": "Professional wall-mounted conduit runs and control panel installation in a commercial warehouse setting. The work demonstrates neat three-run black conduit routing with multiple outlets, switches, and emergency stop provision mounted on a white brick wall.",
+        "quality": "good"
+      }
+    ]
+  },
+  "domestic": {
+    "ev-chargers": [
+      {
+        "full": "assets/gallery/domestic/ev-chargers/1.webp",
+        "thumb": "assets/gallery/domestic/ev-chargers/1-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Residential EV charger installation",
+        "alt": "Ohme EV charger mounted on white garage wall with black cable management pole and coiled charging cable",
+        "description": "Professional wall-mounted EV charger installed on garage exterior with integrated cable management pole and organised charging cable storage. The installation demonstrates tidy surface wiring and weatherproof mounting suitable for domestic use.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/domestic/ev-chargers/10.webp",
+        "thumb": "assets/gallery/domestic/ev-chargers/10-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Domestic HIVE EV wall charger installation",
+        "alt": "Black HIVE EV charger mounted vertically on red brick wall with cable running to ground-level socket",
+        "description": "Wall-mounted HIVE electric vehicle charging unit installed on a brick external wall of a domestic property. The charger is cleanly mounted with cable neatly routed to an outdoor socket at ground level, demonstrating professional installation for residential EV charging.",
+        "quality": "good"
+      }
+    ],
+    "fuseboard-and-misc": [
+      {
+        "full": "assets/gallery/domestic/fuseboard-and-misc/29.webp",
+        "thumb": "assets/gallery/domestic/fuseboard-and-misc/29-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Distribution board installation with cable runs",
+        "alt": "Open metal enclosure on white wall with bundles of grey and black cables running downward, yellow spirit level on top, internal wiring visible",
+        "description": "Open metal enclosure mounted on plasterboard wall with heavy-gauge cables bundled and descending for distribution board installation. The installation shows organized cable management and internal DIN rail-mounted components during active electrical works.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/domestic/fuseboard-and-misc/30.webp",
+        "thumb": "assets/gallery/domestic/fuseboard-and-misc/30-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Dual consumer unit installation in attic",
+        "alt": "Two white consumer units stacked on attic wall with circuit breakers and RCD switches, spirit level against top unit",
+        "description": "Professional dual fuse box installation mounted vertically on a domestic attic wall. Both units contain MCB switches and RCD protection, demonstrating proper circuit distribution for expanded electrical capacity.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/domestic/fuseboard-and-misc/31.webp",
+        "thumb": "assets/gallery/domestic/fuseboard-and-misc/31-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Modern Fusebox consumer unit installation",
+        "alt": "Open consumer unit with Fusebox SPD breakers mounted on white wall",
+        "description": "Fusebox SPD consumer unit mounted and installed with cover open, showing circuit breakers and distribution components. Clean, professional installation with proper labeling and safety warning visible.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/domestic/fuseboard-and-misc/32.webp",
+        "thumb": "assets/gallery/domestic/fuseboard-and-misc/32-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Consumer unit with RCD protection installed",
+        "alt": "Modern white consumer unit with yellow RCD warning label mounted on pale wall",
+        "description": "Modern Fusebox consumer unit mounted on a domestic wall with prominent RCD safety warning label and residual current protection. The white enclosure contains modern circuit protection components typical of contemporary UK electrical installations.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/domestic/fuseboard-and-misc/6.webp",
+        "thumb": "assets/gallery/domestic/fuseboard-and-misc/6-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Domestic sockets and light switches",
+        "alt": "White double light switch and socket outlets installed on a green wall in a residential interior",
+        "description": "Clean installation of modern white electrical outlets and switches on a sage-green accent wall in a residential space. Multiple socket outlets and light switches are neatly positioned at appropriate heights, demonstrating professional domestic wiring work.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/domestic/fuseboard-and-misc/87.webp",
+        "thumb": "assets/gallery/domestic/fuseboard-and-misc/87-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Consumer unit installation and cable routing",
+        "alt": "White consumer unit with orange terminals mounted on wooden joists, surrounded by labeled cables and conduit during installation",
+        "description": "Domestic electrical installation showing a white consumer unit with terminal blocks installed on wooden joists, with orange wiring terminals and labeled cable routing visible during work-in-progress. The installation demonstrates proper cable management and distribution setup in a residential space.",
+        "quality": "ok"
+      },
+      {
+        "full": "assets/gallery/domestic/fuseboard-and-misc/88.webp",
+        "thumb": "assets/gallery/domestic/fuseboard-and-misc/88-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Consumer unit internal cabling",
+        "alt": "Interior view of consumer unit with multiple white-sleeved cables and metal conduit arranged within wooden-backed casing",
+        "description": "Internal wiring and conduit installation within a domestic consumer unit or distribution board, showing metal conduit runs and individual cable protective sleeves prior to final commissioning.",
+        "quality": "poor"
+      }
+    ],
+    "interior-lighting": [
+      {
+        "full": "assets/gallery/domestic/interior-lighting/100.webp",
+        "thumb": "assets/gallery/domestic/interior-lighting/100-thumb.webp",
+        "w": 2000,
+        "h": 1500,
+        "title": "Recessed downlights ceiling installation",
+        "alt": "Ceiling view showing four recessed LED downlights with warm white glow installed in a white plasterboard ceiling, with junction boxes and ventilation ducting visible.",
+        "description": "A clean ceiling installation featuring multiple warm white LED recessed downlights set flush into plasterboard. The lights are evenly spaced across a neutral white ceiling with additional service boxes visible, demonstrating professional embedded lighting design for a residential interior space.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/domestic/interior-lighting/101.webp",
+        "thumb": "assets/gallery/domestic/interior-lighting/101-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Crystal chandelier ceiling light installation",
+        "alt": "Installed crystal chandelier with glass spheres and chrome fittings mounted on white ceiling, lit and sparkling",
+        "description": "Professional installation of a modern crystal chandelier with chrome mounting and decorative glass elements. The fixture is securely mounted to a white coved ceiling with clean wiring integration into the building's electrical circuit.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/domestic/interior-lighting/102.webp",
+        "thumb": "assets/gallery/domestic/interior-lighting/102-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Crystal pendant light installation",
+        "alt": "Chrome crystal pendant light fixture with multiple glass drops hanging from ceiling rose in modern interior",
+        "description": "A modern crystal pendant chandelier with chrome frame and glass drops, professionally installed against a freshly decorated two-tone ceiling. The fixture demonstrates clean electrical work with concealed wiring and secure ceiling fixings.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/domestic/interior-lighting/103.webp",
+        "thumb": "assets/gallery/domestic/interior-lighting/103-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Crystal chandelier ceiling installation",
+        "alt": "Crystal glass chandelier pendant hanging from a white ceiling with warm internal lighting, dimmer switch above",
+        "description": "Ceiling-mounted crystal chandelier with cascading glass elements and integrated dimmer control, installed flush against a white ceiling. The decorative fixture provides warm ambient lighting suitable for hallways and entrance areas.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/domestic/interior-lighting/106.webp",
+        "thumb": "assets/gallery/domestic/interior-lighting/106-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "LED-backlit bathroom mirror installation",
+        "alt": "Illuminated circular mirror above white bathroom vanity with warm LED backlighting and ceiling downlight",
+        "description": "Modern bathroom vanity featuring an integrated LED-backlit circular mirror providing ambient warm lighting, paired with ceiling downlighting. The clean installation demonstrates professional residential bathroom lighting design with seamless integration into contemporary interior finishes.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/domestic/interior-lighting/107.webp",
+        "thumb": "assets/gallery/domestic/interior-lighting/107-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Modern bathroom lighting with accent mirror",
+        "alt": "Modern bathroom with recessed downlights, LED-backlit round mirror, and architectural cove lighting in warm white tones.",
+        "description": "A contemporary bathroom featuring recessed ceiling downlights, LED-backlit mirror with integrated task lighting, and accent cove lighting along architectural ceiling features. The lighting design combines functional ambient and task illumination with decorative ambient effects creating a modern spa-like atmosphere.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/domestic/interior-lighting/108.webp",
+        "thumb": "assets/gallery/domestic/interior-lighting/108-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Modern bathroom recessed downlighting installation",
+        "alt": "Bathroom interior with recessed ceiling lights, walk-in shower enclosure, dual vanity sink, and wooden flooring.",
+        "description": "A professionally installed bathroom lighting scheme featuring multiple recessed LED downlights integrated into the ceiling, with additional overhead lighting above the walk-in shower. The clean, finished installation demonstrates proper electrical planning with no visible conduit and appropriate lighting zones for both ambient and task lighting.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/domestic/interior-lighting/13.webp",
+        "thumb": "assets/gallery/domestic/interior-lighting/13-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Bathroom vanity mirror lighting installation",
+        "alt": "Three warm-glowing Edison bulb vanity lights mounted on dark grey wall above bathroom mirror",
+        "description": "Three-bulb wall-mounted vanity light fixture with industrial Edison-style shades installed above a bathroom mirror, providing warm ambient lighting against dark paneled walls. Professional installation demonstrating proper bathroom electrical work and fixture placement.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/domestic/interior-lighting/14.webp",
+        "thumb": "assets/gallery/domestic/interior-lighting/14-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Recessed ceiling downlights installation",
+        "alt": "Five recessed ceiling downlights installed in a white ceiling with one light switched on, alongside a smoke detector",
+        "description": "Contemporary interior lighting installation featuring multiple flush-fitted recessed downlights integrated into a white ceiling. The downlights are professionally positioned and wired to provide flexible ambient lighting control across the room.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/domestic/interior-lighting/37.webp",
+        "thumb": "assets/gallery/domestic/interior-lighting/37-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Interior lamp styling shot",
+        "alt": "Table lamp with black shade on round metal table, interior styling photograph",
+        "description": "A decorative table lamp with black cylindrical shade against vertical blinds. No electrical work or installation is visible, this is a finished interior design photograph rather than documentation of electrical contracting work.",
+        "quality": "poor"
+      },
+      {
+        "full": "assets/gallery/domestic/interior-lighting/38.webp",
+        "thumb": "assets/gallery/domestic/interior-lighting/38-thumb.webp",
+        "w": 1125,
+        "h": 2000,
+        "title": "Three pendant lights, modern kitchen installation",
+        "alt": "Three warm-lit amber glass pendant lights with black metal fittings and chains suspended from ceiling above a kitchen island",
+        "description": "Modern pendant lighting installation featuring three ribbed glass pendant shades suspended from ceiling-mounted black metal canopies with decorative chains. The warm amber-toned glass spheres are professionally installed in a contemporary domestic kitchen-diner setting, providing focused task and ambient lighting for an open-plan space.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/domestic/interior-lighting/39.webp",
+        "thumb": "assets/gallery/domestic/interior-lighting/39-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Three glass pendant lights over kitchen island",
+        "alt": "Three glass pendant lights with black fittings hung above a kitchen island in a modern open-plan kitchen",
+        "description": "Installation of three modern glass pendant lights with black fittings suspended at varying heights above a kitchen island. The installation demonstrates professional ceiling wiring and drop feeds for domestic interior lighting.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/domestic/interior-lighting/40.webp",
+        "thumb": "assets/gallery/domestic/interior-lighting/40-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Bathroom LED strip and backlit mirror lighting",
+        "alt": "Overhead view of a contemporary white bathroom with recessed downlights, LED-lit circular mirror, and horizontal mirror-mounted LED strip lighting.",
+        "description": "Modern bathroom interior featuring integrated LED lighting design with recessed downlights on perimeter walls, horizontal LED strip above the mirror for task lighting, and circular backlit mirror with integrated LED perimeter. Professional installation demonstrates layered lighting for both ambient and functional illumination.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/domestic/interior-lighting/41.webp",
+        "thumb": "assets/gallery/domestic/interior-lighting/41-thumb.webp",
+        "w": 2000,
+        "h": 1500,
+        "title": "Green pendant lights in modern kitchen",
+        "alt": "Four hanging green dome pendant lights in a modern kitchen-diner with white ceiling and dark accent wall, displaying professional interior lighting installation",
+        "description": "Contemporary open-plan kitchen-dining area featuring four green metallic dome pendant lights at varying heights over the dining table, complemented by ceiling-mounted spotlights. The installation demonstrates professional electrical work integrating decorative and functional lighting in a modern home.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/domestic/interior-lighting/5.webp",
+        "thumb": "assets/gallery/domestic/interior-lighting/5-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Display niche lighting and wall socket",
+        "alt": "Interior wall with two lit display niches containing sculptures, a black pendant light, and a power socket",
+        "description": "A professionally installed interior lighting scheme featuring two recessed ceiling downlights above cream display niches, a decorative wall-mounted pendant light with black shade for accent lighting, and a contemporary double socket outlet. The layered lighting design effectively illuminates both general space and decorative displays.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/domestic/interior-lighting/71.webp",
+        "thumb": "assets/gallery/domestic/interior-lighting/71-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Brass gooseneck wall light installation",
+        "alt": "Lit brass and black wall sconce with gooseneck arm mounted on pale interior wall",
+        "description": "A stylish black and brass wall-mounted sconce with gooseneck arm installed on a clean interior wall. The fixture is illuminated, demonstrating warm ambient lighting cast downward onto the surface below.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/domestic/interior-lighting/72.webp",
+        "thumb": "assets/gallery/domestic/interior-lighting/72-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Contemporary wall sconces installation",
+        "alt": "Two brass wall sconces with patterned cylindrical shades emitting warm light on a neutral wall",
+        "description": "Two designer wall-mounted sconces with patterned brass shades installed on domestic interior walls, demonstrating professional fixture mounting and warm ambient lighting. The brass fixtures include polished wall plates and arms with carefully positioned cylindrical shades creating layered light effects.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/domestic/interior-lighting/76.webp",
+        "thumb": "assets/gallery/domestic/interior-lighting/76-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Pendant lights with exposed beam ceiling",
+        "alt": "Four hanging pendant lights with glass globes mounted on a green wall with exposed wooden ceiling beams.",
+        "description": "Four pendant lights with warm-toned glass globes mounted on brass-finish wall sconces beneath exposed wooden ceiling beams. The installation showcases professional wiring work with symmetrical spacing and clean finish against a deep green interior.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/domestic/interior-lighting/77.webp",
+        "thumb": "assets/gallery/domestic/interior-lighting/77-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Pendant light in garden room extension",
+        "alt": "Brass pendant light hanging in bright garden room with wooden floor, green walls, exposed ceiling joists, and bi-fold doors overlooking garden.",
+        "description": "Modern garden room extension featuring a suspended brass pendant light above a wooden floor, with mains socket outlet installed on the forest-green wall. The vaulted ceiling and bi-fold doors provide a contemporary domestic interior setting.",
+        "quality": "ok"
+      },
+      {
+        "full": "assets/gallery/domestic/interior-lighting/78.webp",
+        "thumb": "assets/gallery/domestic/interior-lighting/78-thumb.webp",
+        "w": 2000,
+        "h": 1500,
+        "title": "Modern dining room recessed and pendant lighting",
+        "alt": "Dining room with recessed ceiling lights and two hanging Edison bulb pendants above a table, large windows overlooking garden",
+        "description": "Contemporary open-plan dining room featuring a mixed lighting scheme with recessed ceiling downlights and two warm-toned Edison bulb pendant lights. The installation showcases professional ceiling integration and modern aesthetic lighting design in a residential space.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/domestic/interior-lighting/79.webp",
+        "thumb": "assets/gallery/domestic/interior-lighting/79-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Decorative pendant lights installation",
+        "alt": "Two hanging pendant lights with glowing amber bulbs suspended from black mounts on a grey ceiling in a bright room with garden windows",
+        "description": "Two Edison-style pendant lights with warm amber filament bulbs suspended from black ceiling mounts in a contemporary interior. The installation provides ambient lighting while maintaining clean aesthetics against the neutral ceiling finish.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/domestic/interior-lighting/8.webp",
+        "thumb": "assets/gallery/domestic/interior-lighting/8-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Brass dome pendant in stairwell",
+        "alt": "Brass dome pendant light hanging from black cord in bright stairwell with black balustrade and large windows",
+        "description": "A warm brass dome pendant light with orange interior finish suspended from a black cord in a bright multi-story stairwell. Clean installation with professional wiring integration in a period-style home with latticed windows and black balustrade.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/domestic/interior-lighting/80.webp",
+        "thumb": "assets/gallery/domestic/interior-lighting/80-thumb.webp",
+        "w": 2000,
+        "h": 1500,
+        "title": "Recessed downlights in open-plan kitchen",
+        "alt": "Open-plan kitchen with recessed downlights in ceiling, warm lighting over kitchen island and dining table",
+        "description": "Modern open-plan kitchen and dining area featuring multiple recessed LED downlights installed throughout a contemporary ceiling. The carefully spaced lighting creates warm ambiance across the kitchen island, dining table, and living zones, with clean plasterwork integration and professional finish.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/domestic/interior-lighting/85.webp",
+        "thumb": "assets/gallery/domestic/interior-lighting/85-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Recessed downlights and range hood wiring",
+        "alt": "Kitchen ceiling with four recessed downlights above a stainless steel range hood with black ductwork and integrated lighting strips.",
+        "description": "Modern kitchen featuring professionally installed recessed ceiling downlights and stainless steel range hood with integrated edge lighting and under-cabinet accent lighting. The clean installation and warm ambient lighting enhance the contemporary kitchen aesthetic.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/domestic/interior-lighting/86.webp",
+        "thumb": "assets/gallery/domestic/interior-lighting/86-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Kitchen extractor hood LED installation",
+        "alt": "Stainless steel extractor hood with LED lighting mounted above a kitchen countertop with a window visible to the left.",
+        "description": "Modern stainless steel extractor hood with integrated LED lighting over a domestic kitchen cooktop. The installation showcases clean wiring integration and a ceiling-mounted downlight in a contemporary interior.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/domestic/interior-lighting/9.webp",
+        "thumb": "assets/gallery/domestic/interior-lighting/9-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Modern kitchen lighting and appliances",
+        "alt": "Modern cream kitchen with recessed ceiling lights, built-in stainless steel oven and microwave, white backsplash, and open shelving",
+        "description": "Contemporary kitchen featuring recessed ceiling downlights and integrated appliance connections. The installation includes task lighting above the sink area and ambient lighting throughout the space, combined with electrical circuits for built-in oven and microwave units.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/domestic/interior-lighting/94.webp",
+        "thumb": "assets/gallery/domestic/interior-lighting/94-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Recessed bathroom downlight installation",
+        "alt": "Blue recessed downlight fixture box installed in tiled bathroom wall next to black handheld shower head",
+        "description": "Recessed LED downlight fixture box installed flush into a tiled bathroom ceiling or wall during rough-in stage, paired with a modern handheld shower head installation. The photo captures the completed electrical fixture housing before final trim ring installation.",
+        "quality": "ok"
+      },
+      {
+        "full": "assets/gallery/domestic/interior-lighting/95.webp",
+        "thumb": "assets/gallery/domestic/interior-lighting/95-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Bathroom Mirror Lighting Installation",
+        "alt": "Bathroom with floating wooden vanity, grey tile walls, backlit mirror with blue LED lighting, black switch plate, and modern black toilet",
+        "description": "Modern bathroom featuring integrated LED mirror lighting and black switch installation. The backlit mirror provides contemporary ambient lighting in this bespoke bathroom renovation with stone tiling and fitted furniture.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/domestic/interior-lighting/96.webp",
+        "thumb": "assets/gallery/domestic/interior-lighting/96-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Recessed bathroom ceiling downlights",
+        "alt": "Three recessed downlights installed in a white bathroom ceiling, two with chrome trim and one with black trim, positioned above a dark-tiled shower enclosure.",
+        "description": "Modern bathroom lighting installation featuring recessed downlights in a white ceiling above a walk-in shower area. The installation includes a mix of black and chrome trim rings, providing even illumination over the dark-tiled shower enclosure.",
+        "quality": "ok"
+      },
+      {
+        "full": "assets/gallery/domestic/interior-lighting/99.webp",
+        "thumb": "assets/gallery/domestic/interior-lighting/99-thumb.webp",
+        "w": 2000,
+        "h": 1500,
+        "title": "Recessed Downlights Installation",
+        "alt": "Three recessed downlights installed flush in a white residential ceiling",
+        "description": "Newly installed recessed downlight fixtures in a freshly finished residential ceiling. Multiple flush-mounted downlights are evenly spaced across the ceiling, demonstrating professional installation work in modern domestic interior lighting.",
+        "quality": "good"
+      }
+    ],
+    "nice-faceplates": [
+      {
+        "full": "assets/gallery/domestic/nice-faceplates/15.webp",
+        "thumb": "assets/gallery/domestic/nice-faceplates/15-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Double dimmer switch installation",
+        "alt": "Charcoal grey double dimmer switch with metallic rings mounted on white wall",
+        "description": "Modern charcoal grey double dimmer switch with metallic trim rings, professionally installed on a clean interior wall. The contemporary design and finishing demonstrates quality residential electrical work suitable for domestic installations.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/domestic/nice-faceplates/16.webp",
+        "thumb": "assets/gallery/domestic/nice-faceplates/16-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Modern dual socket outlet plate installation",
+        "alt": "Charcoal grey electrical socket plate with two twin switched outlets and a switch mounted on cream wall",
+        "description": "Professional installation of a charcoal grey socket plate featuring twin 13A switched outlets and a single switch in a contemporary curved-edge finish. The neat mounting on a cream wall demonstrates clean domestic wiring installation with modern styling.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/domestic/nice-faceplates/17.webp",
+        "thumb": "assets/gallery/domestic/nice-faceplates/17-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Black four-gang light switch plate",
+        "alt": "Four black toggle light switches mounted on a matte black faceplate against white wall",
+        "description": "A modern matte black four-gang light switch installation with labeled toggle switches on a white wall. The clean, professional finish demonstrates quality domestic wiring and contemporary faceplate design.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/domestic/nice-faceplates/73.webp",
+        "thumb": "assets/gallery/domestic/nice-faceplates/73-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Copper finish light switch plate",
+        "alt": "Single-gang copper-finish light switch plate with white toggle switch on white wall",
+        "description": "A striking single-gang light switch with contemporary copper brushed metallic faceplate, featuring a white toggle switch and decorative fixing screws. The warm, textured copper finish provides an elegant decorative accent against the neutral wall surface.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/domestic/nice-faceplates/74.webp",
+        "thumb": "assets/gallery/domestic/nice-faceplates/74-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Bronze faceplate with switched sockets",
+        "alt": "Brushed bronze electrical faceplate on cream wall with chrome toggle switches and two black UK sockets",
+        "description": "A contemporary brushed bronze wall plate featuring two chrome toggle switches and dual 13A sockets, showcasing designer switchplates that complement modern domestic interiors. The coordinated finishes and clean installation demonstrate professional electrical work.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/domestic/nice-faceplates/75.webp",
+        "thumb": "assets/gallery/domestic/nice-faceplates/75-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Three-gang rotary dimmers and socket",
+        "alt": "Antique copper faceplate with three rotary light dimmers and a power socket outlet mounted on a white wall",
+        "description": "Brushed antique copper light dimmer switch plate with three rotary dimmers and single power socket outlet. The decorative metallic finish creates an attractive focal point for modern domestic lighting control.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/domestic/nice-faceplates/97.webp",
+        "thumb": "assets/gallery/domestic/nice-faceplates/97-thumb.webp",
+        "w": 2000,
+        "h": 1500,
+        "title": "Brushed steel switches and sockets installation",
+        "alt": "Three brushed steel electrical faceplates on pale green wall, single switch, double socket with USB, and triple socket",
+        "description": "Three modern brushed steel wall-mounted electrical faceplates installed on a pale green wall. From left to right: a single light switch, a double socket outlet with dual USB switches, and a triple socket outlet, all in matching contemporary metallic finish.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/domestic/nice-faceplates/98.webp",
+        "thumb": "assets/gallery/domestic/nice-faceplates/98-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Modern chrome switches and sockets",
+        "alt": "Chrome switch plate with two sockets and two light switches arranged vertically on pale green wall",
+        "description": "A polished chrome electrical faceplate featuring two 13A socket outlets and two toggle light switches with black insert modules. The contemporary design showcases quality finishes and professional installation on a pale green wall with even, professional lighting.",
+        "quality": "good"
+      }
+    ],
+    "outside-lighting": [
+      {
+        "full": "assets/gallery/domestic/outside-lighting/11.webp",
+        "thumb": "assets/gallery/domestic/outside-lighting/11-thumb.webp",
+        "w": 1600,
+        "h": 1200,
+        "title": "Pergola pendant and garden lighting installation",
+        "alt": "Illuminated pergola with three pendant lights over outdoor dining area at night, with landscape lighting highlighting plants and hardscape",
+        "description": "Professional outdoor living space featuring three large pendant lights suspended from a modern pergola structure, complemented by subtle ground-level landscape lighting that illuminates surrounding planting. The installation demonstrates integrated electrical design for both task and ambient lighting in a contemporary garden setting.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/domestic/outside-lighting/12.webp",
+        "thumb": "assets/gallery/domestic/outside-lighting/12-thumb.webp",
+        "w": 1600,
+        "h": 1200,
+        "title": "Modern pergola with integrated pendant lighting",
+        "alt": "Black pergola with integrated lighting over a patio with dining table and outdoor sofa",
+        "description": "Contemporary outdoor pergola installation featuring integrated LED lighting throughout the frame structure and decorative pendant fixtures. The installation demonstrates professional wiring and fixture placement for a high-end residential patio space with dining and lounge areas.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/domestic/outside-lighting/18.webp",
+        "thumb": "assets/gallery/domestic/outside-lighting/18-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "External wall-mounted entrance light",
+        "alt": "Circular exterior wall light mounted beside a doorway covered in ivy and vegetation",
+        "description": "A circular flush or dome-mounted exterior light fixture installed on a weathered building wall beside a residential entrance. The light is positioned to illuminate the entry area and provide security lighting for the property's outdoor space.",
+        "quality": "ok"
+      },
+      {
+        "full": "assets/gallery/domestic/outside-lighting/22.webp",
+        "thumb": "assets/gallery/domestic/outside-lighting/22-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Black bracket outdoor wall light",
+        "alt": "Outdoor wall-mounted black bracket light fixture with clear glass shade on wooden decking",
+        "description": "Black metal bracket-mounted exterior wall light with clear glass shade, installed on timber decking. Provides traditional outdoor lighting for domestic garden or patio spaces.",
+        "quality": "poor"
+      },
+      {
+        "full": "assets/gallery/domestic/outside-lighting/23.webp",
+        "thumb": "assets/gallery/domestic/outside-lighting/23-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Garden post-mounted exterior lantern light",
+        "alt": "Garden post mounted with a frosted glass lantern light fixture illuminated in the evening, surrounded by hedging and landscaped plants",
+        "description": "A warm white lantern-style exterior light fixture mounted on a weathered wooden garden post. The installation demonstrates practical outdoor lighting placement in a landscaped domestic setting.",
+        "quality": "good"
+      }
+    ]
+  },
+  "standouts": [
+    {
+      "full": "assets/gallery/domestic/outside-lighting/11.webp",
+      "thumb": "assets/gallery/domestic/outside-lighting/11-thumb.webp",
+      "w": 1600,
+      "h": 1200,
+      "title": "Pergola pendant and garden lighting installation",
+      "alt": "Illuminated pergola with three pendant lights over outdoor dining area at night, with landscape lighting highlighting plants and hardscape",
+      "description": "Professional outdoor living space featuring three large pendant lights suspended from a modern pergola structure, complemented by subtle ground-level landscape lighting that illuminates surrounding planting. The installation demonstrates integrated electrical design for both task and ambient lighting in a contemporary garden setting.",
+      "quality": "good",
+      "section": "domestic",
+      "category": "outside-lighting"
+    },
+    {
+      "full": "assets/gallery/domestic/interior-lighting/76.webp",
+      "thumb": "assets/gallery/domestic/interior-lighting/76-thumb.webp",
+      "w": 1500,
+      "h": 2000,
+      "title": "Pendant lights with exposed beam ceiling",
+      "alt": "Four hanging pendant lights with glass globes mounted on a green wall with exposed wooden ceiling beams.",
+      "description": "Four pendant lights with warm-toned glass globes mounted on brass-finish wall sconces beneath exposed wooden ceiling beams. The installation showcases professional wiring work with symmetrical spacing and clean finish against a deep green interior.",
+      "quality": "good",
+      "section": "domestic",
+      "category": "interior-lighting"
+    },
+    {
+      "full": "assets/gallery/domestic/interior-lighting/78.webp",
+      "thumb": "assets/gallery/domestic/interior-lighting/78-thumb.webp",
+      "w": 2000,
+      "h": 1500,
+      "title": "Modern dining room recessed and pendant lighting",
+      "alt": "Dining room with recessed ceiling lights and two hanging Edison bulb pendants above a table, large windows overlooking garden",
+      "description": "Contemporary open-plan dining room featuring a mixed lighting scheme with recessed ceiling downlights and two warm-toned Edison bulb pendant lights. The installation showcases professional ceiling integration and modern aesthetic lighting design in a residential space.",
+      "quality": "good",
+      "section": "domestic",
+      "category": "interior-lighting"
+    },
+    {
+      "full": "assets/gallery/domestic/interior-lighting/106.webp",
+      "thumb": "assets/gallery/domestic/interior-lighting/106-thumb.webp",
+      "w": 1500,
+      "h": 2000,
+      "title": "LED-backlit bathroom mirror installation",
+      "alt": "Illuminated circular mirror above white bathroom vanity with warm LED backlighting and ceiling downlight",
+      "description": "Modern bathroom vanity featuring an integrated LED-backlit circular mirror providing ambient warm lighting, paired with ceiling downlighting. The clean installation demonstrates professional residential bathroom lighting design with seamless integration into contemporary interior finishes.",
+      "quality": "good",
+      "section": "domestic",
+      "category": "interior-lighting"
+    },
+    {
+      "full": "assets/gallery/domestic/interior-lighting/72.webp",
+      "thumb": "assets/gallery/domestic/interior-lighting/72-thumb.webp",
+      "w": 1500,
+      "h": 2000,
+      "title": "Contemporary wall sconces installation",
+      "alt": "Two brass wall sconces with patterned cylindrical shades emitting warm light on a neutral wall",
+      "description": "Two designer wall-mounted sconces with patterned brass shades installed on domestic interior walls, demonstrating professional fixture mounting and warm ambient lighting. The brass fixtures include polished wall plates and arms with carefully positioned cylindrical shades creating layered light effects.",
+      "quality": "good",
+      "section": "domestic",
+      "category": "interior-lighting"
+    },
+    {
+      "full": "assets/gallery/domestic/nice-faceplates/97.webp",
+      "thumb": "assets/gallery/domestic/nice-faceplates/97-thumb.webp",
+      "w": 2000,
+      "h": 1500,
+      "title": "Brushed steel switches and sockets installation",
+      "alt": "Three brushed steel electrical faceplates on pale green wall, single switch, double socket with USB, and triple socket",
+      "description": "Three modern brushed steel wall-mounted electrical faceplates installed on a pale green wall. From left to right: a single light switch, a double socket outlet with dual USB switches, and a triple socket outlet, all in matching contemporary metallic finish.",
+      "quality": "good",
+      "section": "domestic",
+      "category": "nice-faceplates"
+    },
+    {
+      "full": "assets/gallery/commercial/interior-lighting/3.webp",
+      "thumb": "assets/gallery/commercial/interior-lighting/3-thumb.webp",
+      "w": 1500,
+      "h": 2000,
+      "title": "Industrial warehouse overhead lighting installation",
+      "alt": "Wide-angle view of an industrial warehouse interior with a grid of recessed ceiling lights mounted in steel framework, polished concrete floor, and natural light from tall windows.",
+      "description": "A large industrial warehouse featuring an extensive grid of recessed downlights mounted across the exposed steel framework. The polished concrete floor and abundant natural light showcase a professionally installed commercial lighting system designed for optimal illumination of the expansive floor space.",
+      "quality": "good",
+      "section": "commercial",
+      "category": "interior-lighting"
+    },
+    {
+      "full": "assets/gallery/commercial/interior-lighting/83.webp",
+      "thumb": "assets/gallery/commercial/interior-lighting/83-thumb.webp",
+      "w": 1500,
+      "h": 2000,
+      "title": "Warehouse LED lighting",
+      "alt": "Rows of linear LED fixtures mounted across the exposed steel trusses of a warehouse ceiling",
+      "description": "Parallel rows of linear LED fixtures running across the exposed steel trusses of a warehouse, giving clean, even light across the floor below.",
+      "quality": "good",
+      "section": "commercial",
+      "category": "interior-lighting"
+    }
+  ]
+}

@@ -1,4 +1,4 @@
-# Kingsway Electrical — website
+# Kingsway Electrical website
 
 Static marketing site for Kingsway Electrical, hosted on GitHub Pages.
 
@@ -10,7 +10,7 @@ Static marketing site for Kingsway Electrical, hosted on GitHub Pages.
 
 ## Local preview
 
-It's a static site — open `index.html` in a browser, or serve the folder:
+It's a static site. Open `index.html` in a browser, or serve the folder:
 
 ```bash
 python3 -m http.server 8000

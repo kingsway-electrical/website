@@ -3,37 +3,56 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Kingsway Electrical — Qualified Electrician</title>
+  <title>Kingsway Electrical | Qualified Electrician | Domestic &amp; Commercial</title>
   <meta
     name="description"
-    content="Kingsway Electrical — qualified, certified electrician. Domestic and commercial electrical work done safely and to standard."
+    content="Kingsway Electrical Contractors Ltd. NAPIT-registered, qualified electrician. Domestic and commercial electrical work, done safely and to standard."
   />
-  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="icon" type="image/png" href="assets/favicon.png" />
+  <link rel="apple-touch-icon" href="assets/apple-touch-icon.png" />
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
+  <a class="skip-link" href="#main">Skip to content</a>
+
   <header class="site-header">
     <div class="container header-inner">
-      <a class="brand" href="#top">Kingsway&nbsp;Electrical</a>
+      <a class="brand" href="index.html" aria-label="Kingsway Electrical home">
+        <img src="assets/logos/kingsway-landscape.png" alt="Kingsway Electrical" />
+      </a>
       <nav class="nav">
-        <a href="#services">Services</a>
-        <a href="#about">About</a>
+        <a href="residential.html">Residential</a>
+        <a href="commercial.html">Commercial</a>
         <a href="#contact">Contact</a>
       </nav>
     </div>
   </header>
 
-  <main id="top">
-    <!-- HERO -->
+  <main id="main">
+    <!-- HERO + the two paths -->
     <section class="hero">
       <div class="container">
-        <p class="eyebrow">Qualified &amp; Certified Electrician</p>
+        <p class="eyebrow">NAPIT-Registered Electrical Contractor</p>
         <h1>Reliable electrical work,<br />done right.</h1>
         <p class="lead">
-          Domestic and commercial electrical services. Fully certified,
-          fully insured, and proud of every job.
+          Qualified, certified and fully insured. Take a look at the work,
+          then choose what fits your project.
         </p>
-        <a class="btn" href="#contact">Get a quote</a>
+
+        <div class="paths">
+          <a class="path-card" href="residential.html">
+            <span class="path-kicker">For your home</span>
+            <h3>Residential / Domestic</h3>
+            <p>Lighting, consumer units, EV chargers, rewires and more.</p>
+            <span class="arrow">View domestic work</span>
+          </a>
+          <a class="path-card" href="commercial.html">
+            <span class="path-kicker">For your business</span>
+            <h3>Commercial / Industrial</h3>
+            <p>Power, containment, lighting and distribution boards.</p>
+            <span class="arrow">View commercial work</span>
+          </a>
+        </div>
       </div>
     </section>
 
@@ -41,6 +60,7 @@
     <section id="services" class="section">
       <div class="container">
         <h2>What we do</h2>
+        <p class="section-sub">From a single socket to a full commercial fit-out.</p>
         <div class="grid">
           <div class="card">
             <h3>Installations</h3>
@@ -52,40 +72,59 @@
           </div>
           <div class="card">
             <h3>Repairs &amp; Maintenance</h3>
-            <p>Fast, tidy fixes — from a dead socket to a full board upgrade.</p>
+            <p>Fast, tidy fixes, from a dead socket to a full board upgrade.</p>
           </div>
         </div>
       </div>
     </section>
 
+    <!-- CREDENTIALS / TRUST -->
+    <section id="credentials" class="section section-alt">
+      <div class="container">
+        <h2>Qualified &amp; accredited</h2>
+        <p class="section-sub">Properly trained, registered and accountable.</p>
+        <ul class="cert-list">
+          <li><span>•</span> NVQ Level 3</li>
+          <li><span>•</span> 18th Edition</li>
+          <li><span>•</span> AM2</li>
+          <li><span>•</span> City &amp; Guilds 2391 (Inspection &amp; Testing)</li>
+        </ul>
+        <div class="badges">
+          <a href="https://search.napit.org.uk/member/70166/kingsway-electrical-contractors-ltd"
+             target="_blank" rel="noopener" title="Verify our NAPIT registration">
+            <img src="assets/badges/napit.webp" alt="NAPIT registered electrical contractor" />
+          </a>
+          <!-- TODO: replace with real City & Guilds logo file -->
+          <img src="assets/badges/city-and-guilds.svg" alt="City &amp; Guilds qualified" />
+          <!-- TODO: replace with real SMAS Worksafe logo file -->
+          <img src="assets/badges/smas.svg" alt="SMAS Worksafe accredited" />
+          <img src="assets/badges/dementia-friends.png" alt="Dementia Friends" />
+        </div>
+      </div>
+    </section>
+
     <!-- ABOUT -->
-    <section id="about" class="section section-alt">
+    <section id="about" class="section">
       <div class="container">
         <h2>About</h2>
         <p class="prose">
-          Kingsway Electrical is run by a qualified, certified electrician with
-          years of hands-on experience across domestic and commercial projects.
-          <!-- TODO: replace with real company bio + certifications -->
+          Kingsway Electrical Contractors Ltd is run by a qualified, NAPIT-registered
+          electrician with years of hands-on experience across domestic and commercial
+          projects. Every job is done safely, certified and left tidy.
+          <!-- TODO: replace with Josh's real bio -->
         </p>
-        <ul class="certs">
-          <li>Certification placeholder</li>
-          <li>Certification placeholder</li>
-          <li>Certification placeholder</li>
-        </ul>
       </div>
     </section>
 
     <!-- CONTACT -->
-    <section id="contact" class="section">
+    <section id="contact" class="section section-alt">
       <div class="container">
         <h2>Get in touch</h2>
-        <p class="prose">
-          Tell us about the job and we'll get back to you.
-        </p>
+        <p class="prose">Tell us about the job and we'll get back to you.</p>
         <ul class="contact-list">
-          <li><strong>Phone:</strong> <a href="tel:+440000000000">+44 0000 000000</a></li>
-          <li><strong>Email:</strong> <a href="mailto:hello@example.com">hello@example.com</a></li>
-          <li><strong>Area:</strong> Placeholder service area</li>
+          <li><strong>Phone:</strong> <a href="tel:+440000000000">+44 0000 000000</a> <!-- TODO --></li>
+          <li><strong>Email:</strong> <a href="mailto:hello@kingsway-electrical.com">hello@kingsway-electrical.com</a> <!-- TODO --></li>
+          <li><strong>Area:</strong> Placeholder service area <!-- TODO --></li>
         </ul>
       </div>
     </section>
@@ -93,7 +132,16 @@
 
   <footer class="site-footer">
     <div class="container">
-      <p>&copy; <span id="year">2026</span> Kingsway Electrical. All rights reserved.</p>
+      <img class="foot-logo" src="assets/logos/kingsway-wo.png" alt="Kingsway Electrical" />
+      <p>
+        Qualified, NAPIT-registered electrical contractor.
+        <a href="https://search.napit.org.uk/member/70166/kingsway-electrical-contractors-ltd"
+           target="_blank" rel="noopener">Verify our registration</a>.
+      </p>
+      <p class="foot-meta">
+        &copy; <span id="year">2026</span> Kingsway Electrical Contractors Ltd.
+        Company No. 1522940 · VAT No. 516 3360 11.
+      </p>
     </div>
   </footer>
 

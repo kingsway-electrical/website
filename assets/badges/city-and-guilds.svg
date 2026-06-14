@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 120" role="img" aria-label="City &amp; Guilds (placeholder)">
+  <rect x="2" y="2" width="236" height="116" rx="10" fill="#f5f7fa" stroke="#c9d0da" stroke-dasharray="6 5"/>
+  <text x="120" y="50" text-anchor="middle" font-family="system-ui, sans-serif" font-size="22" font-weight="700" fill="#283038">City &amp; Guilds</text>
+  <text x="120" y="74" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" fill="#5b6472">Qualified</text>
+  <text x="120" y="98" text-anchor="middle" font-family="system-ui, sans-serif" font-size="9" letter-spacing="1" fill="#9aa3b0">LOGO PLACEHOLDER</text>
+</svg>

@@ -1,0 +1,11 @@
+# Full-res originals — copied in for processing, never committed.
+# The optimised WebP under assets/ are what we ship.
+media-src/
+
+# Build tooling + intermediate data (kept local). gallery.json (repo root) IS shipped.
+scripts/
+
+# OS cruft
+.DS_Store
+*.DS_Store
+Thumbs.db
