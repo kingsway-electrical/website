@@ -416,6 +416,66 @@
     ],
     "interior-lighting": [
       {
+        "full": "assets/gallery/domestic/interior-lighting/76.webp",
+        "thumb": "assets/gallery/domestic/interior-lighting/76-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Pendant lights with exposed beam ceiling",
+        "alt": "Four hanging pendant lights with glass globes mounted on a green wall with exposed wooden ceiling beams.",
+        "description": "Four pendant lights with warm-toned glass globes mounted on brass-finish wall sconces beneath exposed wooden ceiling beams. The installation showcases professional wiring work with symmetrical spacing and clean finish against a deep green interior.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/domestic/interior-lighting/77.webp",
+        "thumb": "assets/gallery/domestic/interior-lighting/77-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Pendant light in garden room extension",
+        "alt": "Brass pendant light hanging in bright garden room with wooden floor, green walls, exposed ceiling joists, and bi-fold doors overlooking garden.",
+        "description": "Modern garden room extension featuring a suspended brass pendant light above a wooden floor, with mains socket outlet installed on the forest-green wall. The vaulted ceiling and bi-fold doors provide a contemporary domestic interior setting.",
+        "quality": "ok"
+      },
+      {
+        "full": "assets/gallery/domestic/interior-lighting/107.webp",
+        "thumb": "assets/gallery/domestic/interior-lighting/107-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Modern bathroom lighting with accent mirror",
+        "alt": "Modern bathroom with recessed downlights, LED-backlit round mirror, and architectural cove lighting in warm white tones.",
+        "description": "A contemporary bathroom featuring recessed ceiling downlights, LED-backlit mirror with integrated task lighting, and accent cove lighting along architectural ceiling features. The lighting design combines functional ambient and task illumination with decorative ambient effects creating a modern spa-like atmosphere.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/domestic/interior-lighting/106.webp",
+        "thumb": "assets/gallery/domestic/interior-lighting/106-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "LED-backlit bathroom mirror installation",
+        "alt": "Illuminated circular mirror above white bathroom vanity with warm LED backlighting and ceiling downlight",
+        "description": "Modern bathroom vanity featuring an integrated LED-backlit circular mirror providing ambient warm lighting, paired with ceiling downlighting. The clean installation demonstrates professional residential bathroom lighting design with seamless integration into contemporary interior finishes.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/domestic/interior-lighting/40.webp",
+        "thumb": "assets/gallery/domestic/interior-lighting/40-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Bathroom LED strip and backlit mirror lighting",
+        "alt": "Overhead view of a contemporary white bathroom with recessed downlights, LED-lit circular mirror, and horizontal mirror-mounted LED strip lighting.",
+        "description": "Modern bathroom interior featuring integrated LED lighting design with recessed downlights on perimeter walls, horizontal LED strip above the mirror for task lighting, and circular backlit mirror with integrated LED perimeter. Professional installation demonstrates layered lighting for both ambient and functional illumination.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/domestic/interior-lighting/79.webp",
+        "thumb": "assets/gallery/domestic/interior-lighting/79-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Decorative pendant lights installation",
+        "alt": "Two hanging pendant lights with glowing amber bulbs suspended from black mounts on a grey ceiling in a bright room with garden windows",
+        "description": "Two Edison-style pendant lights with warm amber filament bulbs suspended from black ceiling mounts in a contemporary interior. The installation provides ambient lighting while maintaining clean aesthetics against the neutral ceiling finish.",
+        "quality": "good"
+      },
+      {
         "full": "assets/gallery/domestic/interior-lighting/99.webp",
         "thumb": "assets/gallery/domestic/interior-lighting/99-thumb.webp",
         "w": 2000,
@@ -506,16 +566,6 @@
         "quality": "good"
       },
       {
-        "full": "assets/gallery/domestic/interior-lighting/79.webp",
-        "thumb": "assets/gallery/domestic/interior-lighting/79-thumb.webp",
-        "w": 1500,
-        "h": 2000,
-        "title": "Decorative pendant lights installation",
-        "alt": "Two hanging pendant lights with glowing amber bulbs suspended from black mounts on a grey ceiling in a bright room with garden windows",
-        "description": "Two Edison-style pendant lights with warm amber filament bulbs suspended from black ceiling mounts in a contemporary interior. The installation provides ambient lighting while maintaining clean aesthetics against the neutral ceiling finish.",
-        "quality": "good"
-      },
-      {
         "full": "assets/gallery/domestic/interior-lighting/78.webp",
         "thumb": "assets/gallery/domestic/interior-lighting/78-thumb.webp",
         "w": 2000,
@@ -523,26 +573,6 @@
         "title": "Modern dining room recessed and pendant lighting",
         "alt": "Dining room with recessed ceiling lights and two hanging Edison bulb pendants above a table, large windows overlooking garden",
         "description": "Contemporary open-plan dining room featuring a mixed lighting scheme with recessed ceiling downlights and two warm-toned Edison bulb pendant lights. The installation showcases professional ceiling integration and modern aesthetic lighting design in a residential space.",
-        "quality": "good"
-      },
-      {
-        "full": "assets/gallery/domestic/interior-lighting/77.webp",
-        "thumb": "assets/gallery/domestic/interior-lighting/77-thumb.webp",
-        "w": 1500,
-        "h": 2000,
-        "title": "Pendant light in garden room extension",
-        "alt": "Brass pendant light hanging in bright garden room with wooden floor, green walls, exposed ceiling joists, and bi-fold doors overlooking garden.",
-        "description": "Modern garden room extension featuring a suspended brass pendant light above a wooden floor, with mains socket outlet installed on the forest-green wall. The vaulted ceiling and bi-fold doors provide a contemporary domestic interior setting.",
-        "quality": "ok"
-      },
-      {
-        "full": "assets/gallery/domestic/interior-lighting/76.webp",
-        "thumb": "assets/gallery/domestic/interior-lighting/76-thumb.webp",
-        "w": 1500,
-        "h": 2000,
-        "title": "Pendant lights with exposed beam ceiling",
-        "alt": "Four hanging pendant lights with glass globes mounted on a green wall with exposed wooden ceiling beams.",
-        "description": "Four pendant lights with warm-toned glass globes mounted on brass-finish wall sconces beneath exposed wooden ceiling beams. The installation showcases professional wiring work with symmetrical spacing and clean finish against a deep green interior.",
         "quality": "good"
       },
       {
@@ -583,16 +613,6 @@
         "title": "Green pendant lights in modern kitchen",
         "alt": "Four hanging green dome pendant lights in a modern kitchen-diner with white ceiling and dark accent wall, displaying professional interior lighting installation",
         "description": "Contemporary open-plan kitchen-dining area featuring four green metallic dome pendant lights at varying heights over the dining table, complemented by ceiling-mounted spotlights. The installation demonstrates professional electrical work integrating decorative and functional lighting in a modern home.",
-        "quality": "good"
-      },
-      {
-        "full": "assets/gallery/domestic/interior-lighting/40.webp",
-        "thumb": "assets/gallery/domestic/interior-lighting/40-thumb.webp",
-        "w": 1500,
-        "h": 2000,
-        "title": "Bathroom LED strip and backlit mirror lighting",
-        "alt": "Overhead view of a contemporary white bathroom with recessed downlights, LED-lit circular mirror, and horizontal mirror-mounted LED strip lighting.",
-        "description": "Modern bathroom interior featuring integrated LED lighting design with recessed downlights on perimeter walls, horizontal LED strip above the mirror for task lighting, and circular backlit mirror with integrated LED perimeter. Professional installation demonstrates layered lighting for both ambient and functional illumination.",
         "quality": "good"
       },
       {
@@ -653,26 +673,6 @@
         "title": "Modern bathroom recessed downlighting installation",
         "alt": "Bathroom interior with recessed ceiling lights, walk-in shower enclosure, dual vanity sink, and wooden flooring.",
         "description": "A professionally installed bathroom lighting scheme featuring multiple recessed LED downlights integrated into the ceiling, with additional overhead lighting above the walk-in shower. The clean, finished installation demonstrates proper electrical planning with no visible conduit and appropriate lighting zones for both ambient and task lighting.",
-        "quality": "good"
-      },
-      {
-        "full": "assets/gallery/domestic/interior-lighting/107.webp",
-        "thumb": "assets/gallery/domestic/interior-lighting/107-thumb.webp",
-        "w": 1500,
-        "h": 2000,
-        "title": "Modern bathroom lighting with accent mirror",
-        "alt": "Modern bathroom with recessed downlights, LED-backlit round mirror, and architectural cove lighting in warm white tones.",
-        "description": "A contemporary bathroom featuring recessed ceiling downlights, LED-backlit mirror with integrated task lighting, and accent cove lighting along architectural ceiling features. The lighting design combines functional ambient and task illumination with decorative ambient effects creating a modern spa-like atmosphere.",
-        "quality": "good"
-      },
-      {
-        "full": "assets/gallery/domestic/interior-lighting/106.webp",
-        "thumb": "assets/gallery/domestic/interior-lighting/106-thumb.webp",
-        "w": 1500,
-        "h": 2000,
-        "title": "LED-backlit bathroom mirror installation",
-        "alt": "Illuminated circular mirror above white bathroom vanity with warm LED backlighting and ceiling downlight",
-        "description": "Modern bathroom vanity featuring an integrated LED-backlit circular mirror providing ambient warm lighting, paired with ceiling downlighting. The clean installation demonstrates professional residential bathroom lighting design with seamless integration into contemporary interior finishes.",
         "quality": "good"
       },
       {
