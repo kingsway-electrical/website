@@ -1,34 +1,62 @@
 # Kingsway Electrical website
 
-Static marketing site for Kingsway Electrical, hosted on GitHub Pages.
+Marketing site for **Kingsway Electrical Contractors Ltd**, a NAPIT-registered
+electrician based in Tunbridge Wells. Live at
+**[kingsway-electrical.com](https://kingsway-electrical.com)**.
 
 ## Stack
 
-- Plain HTML + CSS (no build step, no framework).
-- Deployed automatically to GitHub Pages via GitHub Actions
-  (`.github/workflows/deploy.yml`) on every push to `main`.
+- Plain HTML, CSS and a little vanilla JavaScript. No framework, and no build
+  step to serve.
+- The photo galleries are driven by a single JSON manifest (`gallery.json`)
+  rendered client-side by `assets/gallery.js`.
+- Deployed to GitHub Pages by GitHub Actions (`.github/workflows/deploy.yml`)
+  on every push to `main`.
+
+## Pages and key files
+
+| Path                | Purpose                                             |
+| ------------------- | --------------------------------------------------- |
+| `index.html`        | Home: hero, services, accreditations, FAQ, contact. |
+| `residential.html`  | Domestic gallery.                                   |
+| `commercial.html`   | Commercial / industrial gallery.                    |
+| `styles.css`        | All styling.                                        |
+| `assets/gallery.js` | Gallery and lightbox renderer (reads `gallery.json`). |
+| `gallery.json`      | Generated manifest of every gallery photo.          |
+| `assets/`           | Logos, accreditation badges, favicons, share image. |
+
+## SEO and discoverability
+
+- Per-page titles, meta descriptions, canonical URLs and Open Graph / Twitter
+  cards (`assets/og-image.png`).
+- `Electrician` (LocalBusiness) and `FAQPage` structured data on the homepage.
+- `sitemap.xml`, `robots.txt` (AI crawlers welcomed) and `llms.txt`.
 
 ## Local preview
 
-It's a static site. Open `index.html` in a browser, or serve the folder:
+It is a static site, so serve the folder and open it in a browser:
 
 ```bash
 python3 -m http.server 8000
 # then visit http://localhost:8000
 ```
 
-## Files
+Opening `index.html` directly mostly works, but the galleries fetch
+`gallery.json` over HTTP, so use a server to see them.
 
-| Path                         | Purpose                                  |
-| ---------------------------- | ---------------------------------------- |
-| `index.html`                 | The single-page site.                    |
-| `styles.css`                 | Styling.                                 |
-| `.github/workflows/deploy.yml` | CI: build + deploy to GitHub Pages.    |
-| `.nojekyll`                  | Tells Pages to skip Jekyll processing.   |
-| `CNAME`                      | Custom domain (added once chosen).       |
+## Galleries
 
-## TODO
+`gallery.json` is generated, not hand-written. The original photos and the build
+tooling (`scripts/`, `media-src/`) live locally and are not committed: the
+scripts optimise the source images to WebP under `assets/gallery/` and assemble
+the manifest. For a small ordering tweak, edit `gallery.json` directly; for a
+full rebuild, rerun the local tooling.
 
-- Real company bio, certifications and contact details (placeholders in `index.html`).
-- Project photo gallery.
-- Custom domain + DNS records.
+## Domain
+
+`CNAME` points the site at `kingsway-electrical.com`; `.nojekyll` disables Jekyll
+processing on Pages.
+
+## To do
+
+- Replace the placeholder About copy with Josh's real bio.
