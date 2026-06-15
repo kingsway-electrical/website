@@ -416,283 +416,13 @@
     ],
     "interior-lighting": [
       {
-        "full": "assets/gallery/domestic/interior-lighting/100.webp",
-        "thumb": "assets/gallery/domestic/interior-lighting/100-thumb.webp",
+        "full": "assets/gallery/domestic/interior-lighting/99.webp",
+        "thumb": "assets/gallery/domestic/interior-lighting/99-thumb.webp",
         "w": 2000,
         "h": 1500,
-        "title": "Recessed downlights ceiling installation",
-        "alt": "Ceiling view showing four recessed LED downlights with warm white glow installed in a white plasterboard ceiling, with junction boxes and ventilation ducting visible.",
-        "description": "A clean ceiling installation featuring multiple warm white LED recessed downlights set flush into plasterboard. The lights are evenly spaced across a neutral white ceiling with additional service boxes visible, demonstrating professional embedded lighting design for a residential interior space.",
-        "quality": "good"
-      },
-      {
-        "full": "assets/gallery/domestic/interior-lighting/101.webp",
-        "thumb": "assets/gallery/domestic/interior-lighting/101-thumb.webp",
-        "w": 1500,
-        "h": 2000,
-        "title": "Crystal chandelier ceiling light installation",
-        "alt": "Installed crystal chandelier with glass spheres and chrome fittings mounted on white ceiling, lit and sparkling",
-        "description": "Professional installation of a modern crystal chandelier with chrome mounting and decorative glass elements. The fixture is securely mounted to a white coved ceiling with clean wiring integration into the building's electrical circuit.",
-        "quality": "good"
-      },
-      {
-        "full": "assets/gallery/domestic/interior-lighting/102.webp",
-        "thumb": "assets/gallery/domestic/interior-lighting/102-thumb.webp",
-        "w": 1500,
-        "h": 2000,
-        "title": "Crystal pendant light installation",
-        "alt": "Chrome crystal pendant light fixture with multiple glass drops hanging from ceiling rose in modern interior",
-        "description": "A modern crystal pendant chandelier with chrome frame and glass drops, professionally installed against a freshly decorated two-tone ceiling. The fixture demonstrates clean electrical work with concealed wiring and secure ceiling fixings.",
-        "quality": "good"
-      },
-      {
-        "full": "assets/gallery/domestic/interior-lighting/103.webp",
-        "thumb": "assets/gallery/domestic/interior-lighting/103-thumb.webp",
-        "w": 1500,
-        "h": 2000,
-        "title": "Crystal chandelier ceiling installation",
-        "alt": "Crystal glass chandelier pendant hanging from a white ceiling with warm internal lighting, dimmer switch above",
-        "description": "Ceiling-mounted crystal chandelier with cascading glass elements and integrated dimmer control, installed flush against a white ceiling. The decorative fixture provides warm ambient lighting suitable for hallways and entrance areas.",
-        "quality": "good"
-      },
-      {
-        "full": "assets/gallery/domestic/interior-lighting/106.webp",
-        "thumb": "assets/gallery/domestic/interior-lighting/106-thumb.webp",
-        "w": 1500,
-        "h": 2000,
-        "title": "LED-backlit bathroom mirror installation",
-        "alt": "Illuminated circular mirror above white bathroom vanity with warm LED backlighting and ceiling downlight",
-        "description": "Modern bathroom vanity featuring an integrated LED-backlit circular mirror providing ambient warm lighting, paired with ceiling downlighting. The clean installation demonstrates professional residential bathroom lighting design with seamless integration into contemporary interior finishes.",
-        "quality": "good"
-      },
-      {
-        "full": "assets/gallery/domestic/interior-lighting/107.webp",
-        "thumb": "assets/gallery/domestic/interior-lighting/107-thumb.webp",
-        "w": 1500,
-        "h": 2000,
-        "title": "Modern bathroom lighting with accent mirror",
-        "alt": "Modern bathroom with recessed downlights, LED-backlit round mirror, and architectural cove lighting in warm white tones.",
-        "description": "A contemporary bathroom featuring recessed ceiling downlights, LED-backlit mirror with integrated task lighting, and accent cove lighting along architectural ceiling features. The lighting design combines functional ambient and task illumination with decorative ambient effects creating a modern spa-like atmosphere.",
-        "quality": "good"
-      },
-      {
-        "full": "assets/gallery/domestic/interior-lighting/108.webp",
-        "thumb": "assets/gallery/domestic/interior-lighting/108-thumb.webp",
-        "w": 1500,
-        "h": 2000,
-        "title": "Modern bathroom recessed downlighting installation",
-        "alt": "Bathroom interior with recessed ceiling lights, walk-in shower enclosure, dual vanity sink, and wooden flooring.",
-        "description": "A professionally installed bathroom lighting scheme featuring multiple recessed LED downlights integrated into the ceiling, with additional overhead lighting above the walk-in shower. The clean, finished installation demonstrates proper electrical planning with no visible conduit and appropriate lighting zones for both ambient and task lighting.",
-        "quality": "good"
-      },
-      {
-        "full": "assets/gallery/domestic/interior-lighting/13.webp",
-        "thumb": "assets/gallery/domestic/interior-lighting/13-thumb.webp",
-        "w": 1500,
-        "h": 2000,
-        "title": "Bathroom vanity mirror lighting installation",
-        "alt": "Three warm-glowing Edison bulb vanity lights mounted on dark grey wall above bathroom mirror",
-        "description": "Three-bulb wall-mounted vanity light fixture with industrial Edison-style shades installed above a bathroom mirror, providing warm ambient lighting against dark paneled walls. Professional installation demonstrating proper bathroom electrical work and fixture placement.",
-        "quality": "good"
-      },
-      {
-        "full": "assets/gallery/domestic/interior-lighting/14.webp",
-        "thumb": "assets/gallery/domestic/interior-lighting/14-thumb.webp",
-        "w": 1500,
-        "h": 2000,
-        "title": "Recessed ceiling downlights installation",
-        "alt": "Five recessed ceiling downlights installed in a white ceiling with one light switched on, alongside a smoke detector",
-        "description": "Contemporary interior lighting installation featuring multiple flush-fitted recessed downlights integrated into a white ceiling. The downlights are professionally positioned and wired to provide flexible ambient lighting control across the room.",
-        "quality": "good"
-      },
-      {
-        "full": "assets/gallery/domestic/interior-lighting/37.webp",
-        "thumb": "assets/gallery/domestic/interior-lighting/37-thumb.webp",
-        "w": 1500,
-        "h": 2000,
-        "title": "Interior lamp styling shot",
-        "alt": "Table lamp with black shade on round metal table, interior styling photograph",
-        "description": "A decorative table lamp with black cylindrical shade against vertical blinds. No electrical work or installation is visible, this is a finished interior design photograph rather than documentation of electrical contracting work.",
-        "quality": "poor"
-      },
-      {
-        "full": "assets/gallery/domestic/interior-lighting/38.webp",
-        "thumb": "assets/gallery/domestic/interior-lighting/38-thumb.webp",
-        "w": 1125,
-        "h": 2000,
-        "title": "Three pendant lights, modern kitchen installation",
-        "alt": "Three warm-lit amber glass pendant lights with black metal fittings and chains suspended from ceiling above a kitchen island",
-        "description": "Modern pendant lighting installation featuring three ribbed glass pendant shades suspended from ceiling-mounted black metal canopies with decorative chains. The warm amber-toned glass spheres are professionally installed in a contemporary domestic kitchen-diner setting, providing focused task and ambient lighting for an open-plan space.",
-        "quality": "good"
-      },
-      {
-        "full": "assets/gallery/domestic/interior-lighting/39.webp",
-        "thumb": "assets/gallery/domestic/interior-lighting/39-thumb.webp",
-        "w": 1500,
-        "h": 2000,
-        "title": "Three glass pendant lights over kitchen island",
-        "alt": "Three glass pendant lights with black fittings hung above a kitchen island in a modern open-plan kitchen",
-        "description": "Installation of three modern glass pendant lights with black fittings suspended at varying heights above a kitchen island. The installation demonstrates professional ceiling wiring and drop feeds for domestic interior lighting.",
-        "quality": "good"
-      },
-      {
-        "full": "assets/gallery/domestic/interior-lighting/40.webp",
-        "thumb": "assets/gallery/domestic/interior-lighting/40-thumb.webp",
-        "w": 1500,
-        "h": 2000,
-        "title": "Bathroom LED strip and backlit mirror lighting",
-        "alt": "Overhead view of a contemporary white bathroom with recessed downlights, LED-lit circular mirror, and horizontal mirror-mounted LED strip lighting.",
-        "description": "Modern bathroom interior featuring integrated LED lighting design with recessed downlights on perimeter walls, horizontal LED strip above the mirror for task lighting, and circular backlit mirror with integrated LED perimeter. Professional installation demonstrates layered lighting for both ambient and functional illumination.",
-        "quality": "good"
-      },
-      {
-        "full": "assets/gallery/domestic/interior-lighting/41.webp",
-        "thumb": "assets/gallery/domestic/interior-lighting/41-thumb.webp",
-        "w": 2000,
-        "h": 1500,
-        "title": "Green pendant lights in modern kitchen",
-        "alt": "Four hanging green dome pendant lights in a modern kitchen-diner with white ceiling and dark accent wall, displaying professional interior lighting installation",
-        "description": "Contemporary open-plan kitchen-dining area featuring four green metallic dome pendant lights at varying heights over the dining table, complemented by ceiling-mounted spotlights. The installation demonstrates professional electrical work integrating decorative and functional lighting in a modern home.",
-        "quality": "good"
-      },
-      {
-        "full": "assets/gallery/domestic/interior-lighting/5.webp",
-        "thumb": "assets/gallery/domestic/interior-lighting/5-thumb.webp",
-        "w": 1500,
-        "h": 2000,
-        "title": "Display niche lighting and wall socket",
-        "alt": "Interior wall with two lit display niches containing sculptures, a black pendant light, and a power socket",
-        "description": "A professionally installed interior lighting scheme featuring two recessed ceiling downlights above cream display niches, a decorative wall-mounted pendant light with black shade for accent lighting, and a contemporary double socket outlet. The layered lighting design effectively illuminates both general space and decorative displays.",
-        "quality": "good"
-      },
-      {
-        "full": "assets/gallery/domestic/interior-lighting/71.webp",
-        "thumb": "assets/gallery/domestic/interior-lighting/71-thumb.webp",
-        "w": 1500,
-        "h": 2000,
-        "title": "Brass gooseneck wall light installation",
-        "alt": "Lit brass and black wall sconce with gooseneck arm mounted on pale interior wall",
-        "description": "A stylish black and brass wall-mounted sconce with gooseneck arm installed on a clean interior wall. The fixture is illuminated, demonstrating warm ambient lighting cast downward onto the surface below.",
-        "quality": "good"
-      },
-      {
-        "full": "assets/gallery/domestic/interior-lighting/72.webp",
-        "thumb": "assets/gallery/domestic/interior-lighting/72-thumb.webp",
-        "w": 1500,
-        "h": 2000,
-        "title": "Contemporary wall sconces installation",
-        "alt": "Two brass wall sconces with patterned cylindrical shades emitting warm light on a neutral wall",
-        "description": "Two designer wall-mounted sconces with patterned brass shades installed on domestic interior walls, demonstrating professional fixture mounting and warm ambient lighting. The brass fixtures include polished wall plates and arms with carefully positioned cylindrical shades creating layered light effects.",
-        "quality": "good"
-      },
-      {
-        "full": "assets/gallery/domestic/interior-lighting/76.webp",
-        "thumb": "assets/gallery/domestic/interior-lighting/76-thumb.webp",
-        "w": 1500,
-        "h": 2000,
-        "title": "Pendant lights with exposed beam ceiling",
-        "alt": "Four hanging pendant lights with glass globes mounted on a green wall with exposed wooden ceiling beams.",
-        "description": "Four pendant lights with warm-toned glass globes mounted on brass-finish wall sconces beneath exposed wooden ceiling beams. The installation showcases professional wiring work with symmetrical spacing and clean finish against a deep green interior.",
-        "quality": "good"
-      },
-      {
-        "full": "assets/gallery/domestic/interior-lighting/77.webp",
-        "thumb": "assets/gallery/domestic/interior-lighting/77-thumb.webp",
-        "w": 1500,
-        "h": 2000,
-        "title": "Pendant light in garden room extension",
-        "alt": "Brass pendant light hanging in bright garden room with wooden floor, green walls, exposed ceiling joists, and bi-fold doors overlooking garden.",
-        "description": "Modern garden room extension featuring a suspended brass pendant light above a wooden floor, with mains socket outlet installed on the forest-green wall. The vaulted ceiling and bi-fold doors provide a contemporary domestic interior setting.",
-        "quality": "ok"
-      },
-      {
-        "full": "assets/gallery/domestic/interior-lighting/78.webp",
-        "thumb": "assets/gallery/domestic/interior-lighting/78-thumb.webp",
-        "w": 2000,
-        "h": 1500,
-        "title": "Modern dining room recessed and pendant lighting",
-        "alt": "Dining room with recessed ceiling lights and two hanging Edison bulb pendants above a table, large windows overlooking garden",
-        "description": "Contemporary open-plan dining room featuring a mixed lighting scheme with recessed ceiling downlights and two warm-toned Edison bulb pendant lights. The installation showcases professional ceiling integration and modern aesthetic lighting design in a residential space.",
-        "quality": "good"
-      },
-      {
-        "full": "assets/gallery/domestic/interior-lighting/79.webp",
-        "thumb": "assets/gallery/domestic/interior-lighting/79-thumb.webp",
-        "w": 1500,
-        "h": 2000,
-        "title": "Decorative pendant lights installation",
-        "alt": "Two hanging pendant lights with glowing amber bulbs suspended from black mounts on a grey ceiling in a bright room with garden windows",
-        "description": "Two Edison-style pendant lights with warm amber filament bulbs suspended from black ceiling mounts in a contemporary interior. The installation provides ambient lighting while maintaining clean aesthetics against the neutral ceiling finish.",
-        "quality": "good"
-      },
-      {
-        "full": "assets/gallery/domestic/interior-lighting/8.webp",
-        "thumb": "assets/gallery/domestic/interior-lighting/8-thumb.webp",
-        "w": 1500,
-        "h": 2000,
-        "title": "Brass dome pendant in stairwell",
-        "alt": "Brass dome pendant light hanging from black cord in bright stairwell with black balustrade and large windows",
-        "description": "A warm brass dome pendant light with orange interior finish suspended from a black cord in a bright multi-story stairwell. Clean installation with professional wiring integration in a period-style home with latticed windows and black balustrade.",
-        "quality": "good"
-      },
-      {
-        "full": "assets/gallery/domestic/interior-lighting/80.webp",
-        "thumb": "assets/gallery/domestic/interior-lighting/80-thumb.webp",
-        "w": 2000,
-        "h": 1500,
-        "title": "Recessed downlights in open-plan kitchen",
-        "alt": "Open-plan kitchen with recessed downlights in ceiling, warm lighting over kitchen island and dining table",
-        "description": "Modern open-plan kitchen and dining area featuring multiple recessed LED downlights installed throughout a contemporary ceiling. The carefully spaced lighting creates warm ambiance across the kitchen island, dining table, and living zones, with clean plasterwork integration and professional finish.",
-        "quality": "good"
-      },
-      {
-        "full": "assets/gallery/domestic/interior-lighting/85.webp",
-        "thumb": "assets/gallery/domestic/interior-lighting/85-thumb.webp",
-        "w": 1500,
-        "h": 2000,
-        "title": "Recessed downlights and range hood wiring",
-        "alt": "Kitchen ceiling with four recessed downlights above a stainless steel range hood with black ductwork and integrated lighting strips.",
-        "description": "Modern kitchen featuring professionally installed recessed ceiling downlights and stainless steel range hood with integrated edge lighting and under-cabinet accent lighting. The clean installation and warm ambient lighting enhance the contemporary kitchen aesthetic.",
-        "quality": "good"
-      },
-      {
-        "full": "assets/gallery/domestic/interior-lighting/86.webp",
-        "thumb": "assets/gallery/domestic/interior-lighting/86-thumb.webp",
-        "w": 1500,
-        "h": 2000,
-        "title": "Kitchen extractor hood LED installation",
-        "alt": "Stainless steel extractor hood with LED lighting mounted above a kitchen countertop with a window visible to the left.",
-        "description": "Modern stainless steel extractor hood with integrated LED lighting over a domestic kitchen cooktop. The installation showcases clean wiring integration and a ceiling-mounted downlight in a contemporary interior.",
-        "quality": "good"
-      },
-      {
-        "full": "assets/gallery/domestic/interior-lighting/9.webp",
-        "thumb": "assets/gallery/domestic/interior-lighting/9-thumb.webp",
-        "w": 1500,
-        "h": 2000,
-        "title": "Modern kitchen lighting and appliances",
-        "alt": "Modern cream kitchen with recessed ceiling lights, built-in stainless steel oven and microwave, white backsplash, and open shelving",
-        "description": "Contemporary kitchen featuring recessed ceiling downlights and integrated appliance connections. The installation includes task lighting above the sink area and ambient lighting throughout the space, combined with electrical circuits for built-in oven and microwave units.",
-        "quality": "good"
-      },
-      {
-        "full": "assets/gallery/domestic/interior-lighting/94.webp",
-        "thumb": "assets/gallery/domestic/interior-lighting/94-thumb.webp",
-        "w": 1500,
-        "h": 2000,
-        "title": "Recessed bathroom downlight installation",
-        "alt": "Blue recessed downlight fixture box installed in tiled bathroom wall next to black handheld shower head",
-        "description": "Recessed LED downlight fixture box installed flush into a tiled bathroom ceiling or wall during rough-in stage, paired with a modern handheld shower head installation. The photo captures the completed electrical fixture housing before final trim ring installation.",
-        "quality": "ok"
-      },
-      {
-        "full": "assets/gallery/domestic/interior-lighting/95.webp",
-        "thumb": "assets/gallery/domestic/interior-lighting/95-thumb.webp",
-        "w": 1500,
-        "h": 2000,
-        "title": "Bathroom Mirror Lighting Installation",
-        "alt": "Bathroom with floating wooden vanity, grey tile walls, backlit mirror with blue LED lighting, black switch plate, and modern black toilet",
-        "description": "Modern bathroom featuring integrated LED mirror lighting and black switch installation. The backlit mirror provides contemporary ambient lighting in this bespoke bathroom renovation with stone tiling and fitted furniture.",
+        "title": "Recessed Downlights Installation",
+        "alt": "Three recessed downlights installed flush in a white residential ceiling",
+        "description": "Newly installed recessed downlight fixtures in a freshly finished residential ceiling. Multiple flush-mounted downlights are evenly spaced across the ceiling, demonstrating professional installation work in modern domestic interior lighting.",
         "quality": "good"
       },
       {
@@ -706,13 +436,283 @@
         "quality": "ok"
       },
       {
-        "full": "assets/gallery/domestic/interior-lighting/99.webp",
-        "thumb": "assets/gallery/domestic/interior-lighting/99-thumb.webp",
+        "full": "assets/gallery/domestic/interior-lighting/95.webp",
+        "thumb": "assets/gallery/domestic/interior-lighting/95-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Bathroom Mirror Lighting Installation",
+        "alt": "Bathroom with floating wooden vanity, grey tile walls, backlit mirror with blue LED lighting, black switch plate, and modern black toilet",
+        "description": "Modern bathroom featuring integrated LED mirror lighting and black switch installation. The backlit mirror provides contemporary ambient lighting in this bespoke bathroom renovation with stone tiling and fitted furniture.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/domestic/interior-lighting/94.webp",
+        "thumb": "assets/gallery/domestic/interior-lighting/94-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Recessed bathroom downlight installation",
+        "alt": "Blue recessed downlight fixture box installed in tiled bathroom wall next to black handheld shower head",
+        "description": "Recessed LED downlight fixture box installed flush into a tiled bathroom ceiling or wall during rough-in stage, paired with a modern handheld shower head installation. The photo captures the completed electrical fixture housing before final trim ring installation.",
+        "quality": "ok"
+      },
+      {
+        "full": "assets/gallery/domestic/interior-lighting/9.webp",
+        "thumb": "assets/gallery/domestic/interior-lighting/9-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Modern kitchen lighting and appliances",
+        "alt": "Modern cream kitchen with recessed ceiling lights, built-in stainless steel oven and microwave, white backsplash, and open shelving",
+        "description": "Contemporary kitchen featuring recessed ceiling downlights and integrated appliance connections. The installation includes task lighting above the sink area and ambient lighting throughout the space, combined with electrical circuits for built-in oven and microwave units.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/domestic/interior-lighting/86.webp",
+        "thumb": "assets/gallery/domestic/interior-lighting/86-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Kitchen extractor hood LED installation",
+        "alt": "Stainless steel extractor hood with LED lighting mounted above a kitchen countertop with a window visible to the left.",
+        "description": "Modern stainless steel extractor hood with integrated LED lighting over a domestic kitchen cooktop. The installation showcases clean wiring integration and a ceiling-mounted downlight in a contemporary interior.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/domestic/interior-lighting/85.webp",
+        "thumb": "assets/gallery/domestic/interior-lighting/85-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Recessed downlights and range hood wiring",
+        "alt": "Kitchen ceiling with four recessed downlights above a stainless steel range hood with black ductwork and integrated lighting strips.",
+        "description": "Modern kitchen featuring professionally installed recessed ceiling downlights and stainless steel range hood with integrated edge lighting and under-cabinet accent lighting. The clean installation and warm ambient lighting enhance the contemporary kitchen aesthetic.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/domestic/interior-lighting/80.webp",
+        "thumb": "assets/gallery/domestic/interior-lighting/80-thumb.webp",
         "w": 2000,
         "h": 1500,
-        "title": "Recessed Downlights Installation",
-        "alt": "Three recessed downlights installed flush in a white residential ceiling",
-        "description": "Newly installed recessed downlight fixtures in a freshly finished residential ceiling. Multiple flush-mounted downlights are evenly spaced across the ceiling, demonstrating professional installation work in modern domestic interior lighting.",
+        "title": "Recessed downlights in open-plan kitchen",
+        "alt": "Open-plan kitchen with recessed downlights in ceiling, warm lighting over kitchen island and dining table",
+        "description": "Modern open-plan kitchen and dining area featuring multiple recessed LED downlights installed throughout a contemporary ceiling. The carefully spaced lighting creates warm ambiance across the kitchen island, dining table, and living zones, with clean plasterwork integration and professional finish.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/domestic/interior-lighting/8.webp",
+        "thumb": "assets/gallery/domestic/interior-lighting/8-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Brass dome pendant in stairwell",
+        "alt": "Brass dome pendant light hanging from black cord in bright stairwell with black balustrade and large windows",
+        "description": "A warm brass dome pendant light with orange interior finish suspended from a black cord in a bright multi-story stairwell. Clean installation with professional wiring integration in a period-style home with latticed windows and black balustrade.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/domestic/interior-lighting/79.webp",
+        "thumb": "assets/gallery/domestic/interior-lighting/79-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Decorative pendant lights installation",
+        "alt": "Two hanging pendant lights with glowing amber bulbs suspended from black mounts on a grey ceiling in a bright room with garden windows",
+        "description": "Two Edison-style pendant lights with warm amber filament bulbs suspended from black ceiling mounts in a contemporary interior. The installation provides ambient lighting while maintaining clean aesthetics against the neutral ceiling finish.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/domestic/interior-lighting/78.webp",
+        "thumb": "assets/gallery/domestic/interior-lighting/78-thumb.webp",
+        "w": 2000,
+        "h": 1500,
+        "title": "Modern dining room recessed and pendant lighting",
+        "alt": "Dining room with recessed ceiling lights and two hanging Edison bulb pendants above a table, large windows overlooking garden",
+        "description": "Contemporary open-plan dining room featuring a mixed lighting scheme with recessed ceiling downlights and two warm-toned Edison bulb pendant lights. The installation showcases professional ceiling integration and modern aesthetic lighting design in a residential space.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/domestic/interior-lighting/77.webp",
+        "thumb": "assets/gallery/domestic/interior-lighting/77-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Pendant light in garden room extension",
+        "alt": "Brass pendant light hanging in bright garden room with wooden floor, green walls, exposed ceiling joists, and bi-fold doors overlooking garden.",
+        "description": "Modern garden room extension featuring a suspended brass pendant light above a wooden floor, with mains socket outlet installed on the forest-green wall. The vaulted ceiling and bi-fold doors provide a contemporary domestic interior setting.",
+        "quality": "ok"
+      },
+      {
+        "full": "assets/gallery/domestic/interior-lighting/76.webp",
+        "thumb": "assets/gallery/domestic/interior-lighting/76-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Pendant lights with exposed beam ceiling",
+        "alt": "Four hanging pendant lights with glass globes mounted on a green wall with exposed wooden ceiling beams.",
+        "description": "Four pendant lights with warm-toned glass globes mounted on brass-finish wall sconces beneath exposed wooden ceiling beams. The installation showcases professional wiring work with symmetrical spacing and clean finish against a deep green interior.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/domestic/interior-lighting/72.webp",
+        "thumb": "assets/gallery/domestic/interior-lighting/72-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Contemporary wall sconces installation",
+        "alt": "Two brass wall sconces with patterned cylindrical shades emitting warm light on a neutral wall",
+        "description": "Two designer wall-mounted sconces with patterned brass shades installed on domestic interior walls, demonstrating professional fixture mounting and warm ambient lighting. The brass fixtures include polished wall plates and arms with carefully positioned cylindrical shades creating layered light effects.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/domestic/interior-lighting/71.webp",
+        "thumb": "assets/gallery/domestic/interior-lighting/71-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Brass gooseneck wall light installation",
+        "alt": "Lit brass and black wall sconce with gooseneck arm mounted on pale interior wall",
+        "description": "A stylish black and brass wall-mounted sconce with gooseneck arm installed on a clean interior wall. The fixture is illuminated, demonstrating warm ambient lighting cast downward onto the surface below.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/domestic/interior-lighting/5.webp",
+        "thumb": "assets/gallery/domestic/interior-lighting/5-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Display niche lighting and wall socket",
+        "alt": "Interior wall with two lit display niches containing sculptures, a black pendant light, and a power socket",
+        "description": "A professionally installed interior lighting scheme featuring two recessed ceiling downlights above cream display niches, a decorative wall-mounted pendant light with black shade for accent lighting, and a contemporary double socket outlet. The layered lighting design effectively illuminates both general space and decorative displays.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/domestic/interior-lighting/41.webp",
+        "thumb": "assets/gallery/domestic/interior-lighting/41-thumb.webp",
+        "w": 2000,
+        "h": 1500,
+        "title": "Green pendant lights in modern kitchen",
+        "alt": "Four hanging green dome pendant lights in a modern kitchen-diner with white ceiling and dark accent wall, displaying professional interior lighting installation",
+        "description": "Contemporary open-plan kitchen-dining area featuring four green metallic dome pendant lights at varying heights over the dining table, complemented by ceiling-mounted spotlights. The installation demonstrates professional electrical work integrating decorative and functional lighting in a modern home.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/domestic/interior-lighting/40.webp",
+        "thumb": "assets/gallery/domestic/interior-lighting/40-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Bathroom LED strip and backlit mirror lighting",
+        "alt": "Overhead view of a contemporary white bathroom with recessed downlights, LED-lit circular mirror, and horizontal mirror-mounted LED strip lighting.",
+        "description": "Modern bathroom interior featuring integrated LED lighting design with recessed downlights on perimeter walls, horizontal LED strip above the mirror for task lighting, and circular backlit mirror with integrated LED perimeter. Professional installation demonstrates layered lighting for both ambient and functional illumination.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/domestic/interior-lighting/39.webp",
+        "thumb": "assets/gallery/domestic/interior-lighting/39-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Three glass pendant lights over kitchen island",
+        "alt": "Three glass pendant lights with black fittings hung above a kitchen island in a modern open-plan kitchen",
+        "description": "Installation of three modern glass pendant lights with black fittings suspended at varying heights above a kitchen island. The installation demonstrates professional ceiling wiring and drop feeds for domestic interior lighting.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/domestic/interior-lighting/38.webp",
+        "thumb": "assets/gallery/domestic/interior-lighting/38-thumb.webp",
+        "w": 1125,
+        "h": 2000,
+        "title": "Three pendant lights, modern kitchen installation",
+        "alt": "Three warm-lit amber glass pendant lights with black metal fittings and chains suspended from ceiling above a kitchen island",
+        "description": "Modern pendant lighting installation featuring three ribbed glass pendant shades suspended from ceiling-mounted black metal canopies with decorative chains. The warm amber-toned glass spheres are professionally installed in a contemporary domestic kitchen-diner setting, providing focused task and ambient lighting for an open-plan space.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/domestic/interior-lighting/37.webp",
+        "thumb": "assets/gallery/domestic/interior-lighting/37-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Interior lamp styling shot",
+        "alt": "Table lamp with black shade on round metal table, interior styling photograph",
+        "description": "A decorative table lamp with black cylindrical shade against vertical blinds. No electrical work or installation is visible, this is a finished interior design photograph rather than documentation of electrical contracting work.",
+        "quality": "poor"
+      },
+      {
+        "full": "assets/gallery/domestic/interior-lighting/14.webp",
+        "thumb": "assets/gallery/domestic/interior-lighting/14-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Recessed ceiling downlights installation",
+        "alt": "Five recessed ceiling downlights installed in a white ceiling with one light switched on, alongside a smoke detector",
+        "description": "Contemporary interior lighting installation featuring multiple flush-fitted recessed downlights integrated into a white ceiling. The downlights are professionally positioned and wired to provide flexible ambient lighting control across the room.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/domestic/interior-lighting/13.webp",
+        "thumb": "assets/gallery/domestic/interior-lighting/13-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Bathroom vanity mirror lighting installation",
+        "alt": "Three warm-glowing Edison bulb vanity lights mounted on dark grey wall above bathroom mirror",
+        "description": "Three-bulb wall-mounted vanity light fixture with industrial Edison-style shades installed above a bathroom mirror, providing warm ambient lighting against dark paneled walls. Professional installation demonstrating proper bathroom electrical work and fixture placement.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/domestic/interior-lighting/108.webp",
+        "thumb": "assets/gallery/domestic/interior-lighting/108-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Modern bathroom recessed downlighting installation",
+        "alt": "Bathroom interior with recessed ceiling lights, walk-in shower enclosure, dual vanity sink, and wooden flooring.",
+        "description": "A professionally installed bathroom lighting scheme featuring multiple recessed LED downlights integrated into the ceiling, with additional overhead lighting above the walk-in shower. The clean, finished installation demonstrates proper electrical planning with no visible conduit and appropriate lighting zones for both ambient and task lighting.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/domestic/interior-lighting/107.webp",
+        "thumb": "assets/gallery/domestic/interior-lighting/107-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Modern bathroom lighting with accent mirror",
+        "alt": "Modern bathroom with recessed downlights, LED-backlit round mirror, and architectural cove lighting in warm white tones.",
+        "description": "A contemporary bathroom featuring recessed ceiling downlights, LED-backlit mirror with integrated task lighting, and accent cove lighting along architectural ceiling features. The lighting design combines functional ambient and task illumination with decorative ambient effects creating a modern spa-like atmosphere.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/domestic/interior-lighting/106.webp",
+        "thumb": "assets/gallery/domestic/interior-lighting/106-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "LED-backlit bathroom mirror installation",
+        "alt": "Illuminated circular mirror above white bathroom vanity with warm LED backlighting and ceiling downlight",
+        "description": "Modern bathroom vanity featuring an integrated LED-backlit circular mirror providing ambient warm lighting, paired with ceiling downlighting. The clean installation demonstrates professional residential bathroom lighting design with seamless integration into contemporary interior finishes.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/domestic/interior-lighting/103.webp",
+        "thumb": "assets/gallery/domestic/interior-lighting/103-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Crystal chandelier ceiling installation",
+        "alt": "Crystal glass chandelier pendant hanging from a white ceiling with warm internal lighting, dimmer switch above",
+        "description": "Ceiling-mounted crystal chandelier with cascading glass elements and integrated dimmer control, installed flush against a white ceiling. The decorative fixture provides warm ambient lighting suitable for hallways and entrance areas.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/domestic/interior-lighting/102.webp",
+        "thumb": "assets/gallery/domestic/interior-lighting/102-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Crystal pendant light installation",
+        "alt": "Chrome crystal pendant light fixture with multiple glass drops hanging from ceiling rose in modern interior",
+        "description": "A modern crystal pendant chandelier with chrome frame and glass drops, professionally installed against a freshly decorated two-tone ceiling. The fixture demonstrates clean electrical work with concealed wiring and secure ceiling fixings.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/domestic/interior-lighting/101.webp",
+        "thumb": "assets/gallery/domestic/interior-lighting/101-thumb.webp",
+        "w": 1500,
+        "h": 2000,
+        "title": "Crystal chandelier ceiling light installation",
+        "alt": "Installed crystal chandelier with glass spheres and chrome fittings mounted on white ceiling, lit and sparkling",
+        "description": "Professional installation of a modern crystal chandelier with chrome mounting and decorative glass elements. The fixture is securely mounted to a white coved ceiling with clean wiring integration into the building's electrical circuit.",
+        "quality": "good"
+      },
+      {
+        "full": "assets/gallery/domestic/interior-lighting/100.webp",
+        "thumb": "assets/gallery/domestic/interior-lighting/100-thumb.webp",
+        "w": 2000,
+        "h": 1500,
+        "title": "Recessed downlights ceiling installation",
+        "alt": "Ceiling view showing four recessed LED downlights with warm white glow installed in a white plasterboard ceiling, with junction boxes and ventilation ducting visible.",
+        "description": "A clean ceiling installation featuring multiple warm white LED recessed downlights set flush into plasterboard. The lights are evenly spaced across a neutral white ceiling with additional service boxes visible, demonstrating professional embedded lighting design for a residential interior space.",
         "quality": "good"
       }
     ],
