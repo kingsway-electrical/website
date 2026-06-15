@@ -106,8 +106,14 @@ img { max-width: 100%; display: block; }
   object-fit: contain;
 }
 @media (max-width: 600px) {
+  /* stack the header so the nav row sits below the logo instead of crowding it */
+  .header-inner { height: auto; flex-direction: column; gap: 0.5rem; padding: 0.7rem 0; }
+  .nav { display: flex; justify-content: center; gap: 1.5rem; }
+  .nav a { margin: 0; }
+  /* let the marks size to content and centre them so they wrap into even rows */
   .trust-bar img { height: 54px; }
-  .trust-bar-inner { gap: 1rem; }
+  .trust-bar-inner { justify-content: center; gap: 1.25rem 1.6rem; }
+  .trust-bar-inner > * { flex: 0 0 auto; min-width: 0; }
 }
 
 /* ---------- Hero ---------- */
