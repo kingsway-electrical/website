@@ -157,14 +157,22 @@
                     </p>
                     <h1>Reliable electrical work,<br />done right.</h1>
                     <p class="lead">
-                        Kingsway Electrical Contractors Ltd is a Tunbridge Wells
-                        based, NAPIT-registered electrical contractor with over
-                        10 years of experience across domestic and commercial
-                        projects, covering Kent, London and East Sussex.
-                        Qualified, certified and fully insured, every job is
-                        done safely and left tidy. Take a look at the work, then
-                        choose what fits your project.
-                        <!-- TODO: replace with Josh's real bio -->
+                        Kingsway Electrical provides professional electrical
+                        services across Tunbridge Wells, Kent and the
+                        surrounding areas.
+                    </p>
+                    <p class="hero-about">
+                        With over 10 years of industry experience, we deliver
+                        high-quality electrical installations, maintenance,
+                        inspection and testing for domestic and commercial
+                        clients. We pride ourselves on reliable service, clear
+                        communication and workmanship completed to the highest
+                        standards.
+                    </p>
+                    <p class="hero-about">
+                        Whether it's a small repair or a large-scale project,
+                        we're committed to providing safe, efficient and
+                        dependable electrical solutions you can trust.
                     </p>
 
                     <div class="paths">
@@ -247,6 +255,7 @@
                             <span>•</span> City &amp; Guilds 2391 (Inspection
                             &amp; Testing)
                         </li>
+                        <li><span>•</span> SMAS Worksafe (SSIP) accredited</li>
                         <li><span>•</span> VAT registered</li>
                     </ul>
                 </div>
@@ -435,6 +444,11 @@
                             name="from_name"
                             value="Kingsway Electrical website"
                         />
+                        <input
+                            type="hidden"
+                            name="redirect"
+                            value="https://kingsway-electrical.com/thank-you.html"
+                        />
                         <!-- honeypot: hidden from people, catches bots -->
                         <input
                             type="checkbox"
@@ -553,7 +567,6 @@
             <svg viewBox="0 0 24 24" width="26" height="26" aria-hidden="true" focusable="false"><path fill="currentColor" d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.21z"/></svg>
         </a>
 
-        <script src="assets/site.js" defer></script>
         <script>
             document.getElementById("year").textContent =
                 new Date().getFullYear();
@@ -565,56 +578,18 @@
                 var status = form.querySelector(".form-status");
                 var phone = form.querySelector("[name=phone]");
                 var email = form.querySelector("[name=email]");
-                var btn = form.querySelector("button[type=submit]");
 
+                // Phone and email are both optional, but we need one to reply.
+                // On a valid submit the form posts normally and Web3Forms
+                // redirects to thank-you.html (see the hidden "redirect" field).
                 form.addEventListener("submit", function (e) {
-                    e.preventDefault();
-                    status.className = "form-status";
-                    status.textContent = "";
-
-                    // phone and email are both optional, but we need one to reply
                     if (!phone.value.trim() && !email.value.trim()) {
-                        status.classList.add("error");
+                        e.preventDefault();
+                        status.className = "form-status error";
                         status.textContent =
                             "Please leave a phone number or an email so we can reply.";
                         phone.focus();
-                        return;
                     }
-
-                    var label = btn.textContent;
-                    btn.disabled = true;
-                    btn.textContent = "Sending…";
-
-                    fetch(form.action, {
-                        method: "POST",
-                        body: new FormData(form),
-                        headers: { Accept: "application/json" }
-                    })
-                        .then(function (r) {
-                            return r.json();
-                        })
-                        .then(function (data) {
-                            if (data.success) {
-                                form.reset();
-                                status.classList.add("ok");
-                                status.textContent =
-                                    "Thanks! We'll be in touch shortly.";
-                            } else {
-                                status.classList.add("error");
-                                status.textContent =
-                                    data.message ||
-                                    "Something went wrong. Please try again or give us a call.";
-                            }
-                        })
-                        .catch(function () {
-                            status.classList.add("error");
-                            status.textContent =
-                                "Something went wrong. Please try again or give us a call.";
-                        })
-                        .then(function () {
-                            btn.disabled = false;
-                            btn.textContent = label;
-                        });
                 });
             })();
         </script>

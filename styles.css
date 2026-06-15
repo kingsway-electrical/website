@@ -135,7 +135,24 @@ img { max-width: 100%; display: block; }
   margin: 0 0 1rem;
   letter-spacing: -0.02em;
 }
-.lead { font-size: 1.15rem; color: var(--muted); max-width: 46ch; margin: 0 0 2rem; }
+.lead { font-size: 1.15rem; color: var(--muted); max-width: 46ch; margin: 0 0 1rem; }
+.hero-about { color: var(--muted); max-width: 56ch; margin: 0 0 1rem; }
+.hero-about:last-of-type { margin-bottom: 0; }
+
+/* ---------- Thank-you page ---------- */
+.hero.thanks { padding: 5rem 0; }
+.thanks-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+  background: var(--brand);
+  color: #fff;
+  margin-bottom: 1.25rem;
+}
+.hero.thanks .gallery-switch { margin-top: 2rem; }
 
 /* ---------- Path buttons (the two big choices) ---------- */
 .paths {
@@ -354,7 +371,6 @@ img { max-width: 100%; display: block; }
 }
 .call-fab:hover { background: var(--brand-dark); }
 .call-fab:focus-visible { outline: 3px solid var(--ink); outline-offset: 3px; }
-.call-fab.hide { opacity: 0; transform: translateY(14px); pointer-events: none; }
 @media (max-width: 600px) {
   .call-fab { width: 54px; height: 54px; right: 1rem; bottom: 1rem; }
 }
