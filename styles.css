@@ -320,6 +320,44 @@ img { max-width: 100%; display: block; }
 .site-footer img.foot-logo { height: 44px; width: auto; margin-bottom: 1.25rem; }
 .site-footer a { color: var(--brand); text-decoration: none; }
 .site-footer .foot-meta { margin-top: 1rem; font-size: 0.82rem; color: rgba(255, 255, 255, 0.45); }
+.foot-social { display: flex; gap: 0.75rem; margin: 1.25rem 0 0; }
+.foot-social a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  color: rgba(255, 255, 255, 0.7);
+  background: rgba(255, 255, 255, 0.08);
+  transition: background 0.15s ease, color 0.15s ease;
+}
+.foot-social a:hover { background: var(--brand); color: #fff; }
+.foot-social svg { display: block; }
+
+/* ---------- Floating call button (appears on scroll) ---------- */
+.call-fab {
+  position: fixed;
+  right: 1.25rem;
+  bottom: 1.25rem;
+  z-index: 60;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 58px;
+  height: 58px;
+  border-radius: 50%;
+  background: var(--brand);
+  color: #fff;
+  box-shadow: 0 6px 20px rgba(40, 48, 56, 0.28);
+  transition: opacity 0.25s ease, transform 0.25s ease, background 0.15s ease;
+}
+.call-fab:hover { background: var(--brand-dark); }
+.call-fab:focus-visible { outline: 3px solid var(--ink); outline-offset: 3px; }
+.call-fab.hide { opacity: 0; transform: translateY(14px); pointer-events: none; }
+@media (max-width: 600px) {
+  .call-fab { width: 54px; height: 54px; right: 1rem; bottom: 1rem; }
+}
 
 /* ---------- Standouts strip (homepage, auto-scrolling marquee) ---------- */
 .standouts-section { padding-bottom: 3rem; }
