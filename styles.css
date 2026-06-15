@@ -154,10 +154,6 @@ img { max-width: 100%; display: block; }
 }
 .hero.thanks .gallery-switch { margin-top: 2rem; }
 
-/* ---------- Instagram feed ---------- */
-.ig-feed { margin-top: 1.75rem; }
-.ig-feed iframe { width: 100%; border: none; display: block; }
-
 /* ---------- Path buttons (the two big choices) ---------- */
 .paths {
   display: grid;
