@@ -337,6 +337,7 @@ img { max-width: 100%; display: block; }
 .site-footer img.foot-logo { height: 44px; width: auto; margin-bottom: 1.25rem; }
 .site-footer a { color: var(--brand); text-decoration: none; }
 .site-footer .foot-meta { margin-top: 1rem; font-size: 0.82rem; color: rgba(255, 255, 255, 0.45); }
+.site-footer .foot-updated { margin-top: 1.25rem; font-size: 0.82rem; color: rgba(255, 255, 255, 0.45); }
 .foot-social { display: flex; gap: 0.75rem; margin: 1.25rem 0 0; }
 .foot-social a {
   display: inline-flex;
